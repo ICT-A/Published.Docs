@@ -35,5 +35,5 @@ Description réduite
 * Vote des 2 scrutateurs: 
 
 ---
-# références ou exemples à supprimer
+### références ou exemples à supprimer
 * https://www.aetoc.ch/wp-content/uploads/2012/08/2007PV.AGenligne.pdf
