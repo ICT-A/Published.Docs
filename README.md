@@ -9,3 +9,5 @@ ATTENTION, ceux-ci sont justes des "sauvegardes" textes bruts, des documents off
 
 Project GITHUB page
 http://ict-a.github.io/Published.Docs
+
+Licences libre Creative Commons, en mentionnant les auteurs CC-BY CloudReady.ch et ICT-a.ch, contact Pascal.KOTTE@CloudReady.ch
