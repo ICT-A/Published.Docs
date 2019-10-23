@@ -85,12 +85,17 @@ En cas de non-respect par l'une des parties des engagements inscrits dans la pr�
 Lors de l'AG, le non renouvellement de ce partenariat peut être mis à l'ordre du jour. L'autre association devrait en être avisée avant la publication l'AG, et les comités doivent pouvoir en discuter afin 
 
 ### Article 9 : Application de la convention
-#### Garantie
-Chaque structure est garante de la bonne exécution de la présente convention, chacune en ce qui la concerne. Les projets et activités communs sont financièrement et techniquement supportés par les deux associations, dans une proportion définie par cette convention
-
 #### Organisations/facilitations
 Les comités peuvent mettre en place des outils et mesures de facilitations suivantes:
-* Une AG (Assemblée Générale) en coordination (non juxtaposée) voir 
+* Une AG (Assemblée Générale) en coordination (non juxtaposée) voir justaposées au même moment et servir de rencontre générale.
+* Les outils de collaboration suivants:
+  * Un framavox collectif (Loomio)
+  * un drive "cloud" partagé entre les 2 comités, et des espaces en lecture pour: Tous les membres ou tout public.
+  * Un wiki/site collectif soutenant les projets/activités
+  * etc...
+
+#### Garantie
+Chaque structure est garante de la bonne exécution de la présente convention, chacune en ce qui la concerne. Les projets et activités communs sont financièrement et techniquement supportés par les deux associations, dans une proportion définie par cette convention
 
 Fait en … exemplaires originaux.
 A (lieu), date
