@@ -38,6 +38,7 @@ Les associations disposent d’une assurance couvrant les risques liés au maté
 Assurance de l’association X :
 - N° de contrat
 - Nom de la compagnie d’assurances
+
 Assurance de l’association Y :
 - N° de contrat
 - Nom de la compagnie d’assurances
