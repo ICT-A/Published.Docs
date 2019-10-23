@@ -6,12 +6,18 @@ Et
 
 
 ## Il a été convenu et arrêté ce qui suit.
-
 ### Article 1 - Contexte
-Présentation rapide de l’association X et de l’association Y :
+#### Présentations
+Présentation rapide de l’association X et de l’association Y.
 
-
-Description du projet de coopération :
+#### Description du projet de coopération
+* échange membership: Les 2 associations deviennent mutuellement membres l'une de l'autre: Avec annulation des cotisations respectives [ou compensation à définir]
+* Les membres de X peuvent devenir membre de Y à [quelles conditions]
+* Les membres de Y peuvent devenir membre de X à [quelles conditions]
+* Les ressources suivantes sont mutualisées
+  * newsletter collective ? Ou relayées ?
+  * locaux
+  * etc...
 
 ### Article 2 - Objet de la convention
 La présente convention a pour objet de définir les engagements réciproques de la structure X et de la structure Y dans la réalisation du projet « XXX » qui se déroulera du
