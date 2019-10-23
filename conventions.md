@@ -13,6 +13,9 @@ Présentation rapide de l’association X et de l’association Y.
 #### Description du projet de coopération
 * échange membership: Les 2 associations deviennent mutuellement membres l'une de l'autre: Avec annulation des cotisations respectives [ou compensation à définir]
 * Les membres de X peuvent devenir membre de Y à [quelles conditions]
+  * Nb. Cette peut n'avoir aucun sens et être supprimée. (Ex. Faîtière)
+  * ou encore membres automatiquement
+  * Ou encore sans sujets mais 50% aux activités, etc...
 * Les membres de Y peuvent devenir membre de X à [quelles conditions]
 * Les ressources suivantes sont mutualisées
   * newsletter collective ? Ou relayées ?
