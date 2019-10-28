@@ -36,13 +36,16 @@ Festivités requises: Partager un verre, un restaurant, un bar, une activité, u
 Procès–verbal standard d’une assemblée générale
 ---
 # PV de l’Assemblée Générale de l’association «nom de l’association» du «date» à «lieu»
-Rapporteur: X
-Scrutrateurs: Y + Z
-Présidence: M/Mme Xxxx Xxxxxx (titre/rôle)
-Présents : «liste des personnes présentes» (feuille de présence
-
-Excusés : «liste des personnes excusées»
-
+* Rapporteur: X
+* Scrutrateurs: Y + Z
+* Présidence: M/Mme Xxxx Xxxxxx (titre/rôle)
+* Présents : «liste des personnes présentes»
+  * feuille de présence, 
+  * y rapporter les procurations, à la place de la signature, 
+  * idée: confirmer email aussi
+  * Plus facile avec un formulaire en ligne pour collecter emails+information/confirmation présence/procuration
+* Excusés : «liste des personnes excusées» _(NB: toutes procurations données vaut une demande d'excuse)_
+* Absents : (lister les absents non excusés)
 
 1.	Accueil et bienvenue
 	«Reporter les mots de bienvenue du président»
