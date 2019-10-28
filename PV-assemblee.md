@@ -28,9 +28,25 @@
 
 ## Déroulement de l'AG 
 Le plus court possible, et uniquement sur les décisions préparées.
+1. Mot de bienvenue par la présidence
+2. Désignation/demande de volontaire pour le rapporteur afin de prendre le PV
+3. Désignation des scrutateurs (x2)
+4. PV de l'année précédente: 
+* Remerciements aux dernières corrections proposées par X, Y sur la seconde copie du PV envoyé le mois passé.
+* remerciements aux premières corrections proposées par Z lors de la première présentation 1 mois après la dernière AG.
+* Y a-t-il des remarques résiduelles malgrés le fait que ce PV a été remis il y à 11 mois et à nouveau il y a un mois en vous invitant à faire vos remarques et corrections, avant cette AG? _(cela calme les vélléités, temps gagné)_
+* Vote 1: 
+  * Qui s'oppose à ce PV ?
+  * Qui s'abstient ? (les crutateurs comptent)
+  * Par déduction des abstentions et oppositions, adopté à l'unanimité, avec nos remerciements au rapporteur X (**_IMPORTANT_** le désigner et l'applaudir)
+5. Rapport(s) d'activité(s)
+* Résister à la tentation et faire un résumé très court, si possible animations, photos, films...
+
 
 ## Post-AG ##
-Festivités requises: Partager un verre, un restaurant, un bar, une activité, une détente: Mais permettant échanges et discussions libres.
+Festivités requises: 
+* Partager un verre, un restaurant, un bar, une activité, une détente...
+* Mais permettant échanges et discussions libres.
 
 ---
 Procès–verbal standard d’une assemblée générale
@@ -48,10 +64,12 @@ Procès–verbal standard d’une assemblée générale
 * Absents : (lister les absents non excusés)
 
 1.	Accueil et bienvenue
-	* «Reporter les mots de bienvenue du président»
+	* La présidence ouvre la séance de cette assemblée en date du <date, heure>.
+	* La présidence souhaite la bienvenue et le rapporteur et les deux scrutateurs ont été désignés.
+	* Options: «Reporter les mots de bienvenue du président» si remarquables
 
 2.	**Adoption du procès-verbal de la dernière assemblée générale** (vote)
-	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée, avec remerciements à son rapporteur X.
+	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée, avec remerciements à son rapporteur X, qui est acclamé par l'assemblée.
 
 3.	Adoption ou simple rapport d'activité (_vote optionnel_)
 	* «Résumé du rapport d’activité lu par le président»
