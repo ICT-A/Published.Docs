@@ -15,23 +15,27 @@
   * Un apéro dinatoire, en aval de l'AG (mais cela c'est vicieux, on peut faire avant aussi)
 
 ## Acceuil
-* prévoir le délai pour se mettre en place
-* Ouverture de l'AG
+* prévoir le délai pour se mettre en place, feuille de présence.
 1. Bienvenue, receuillir les présents et participants (emails, infos, membres, pas membres, procurations et excuses)
 2. Activité sympathique et réseautage, puis invitation aux curieux de participer à l'AG (activités ouvertes et convergente avec le public cible de l'association)
 3. Explication ce qu'est l'association pour les nouveaux
 4. invitation à rester pour l'AG.  Présentation de l'ordre du jour prévu
 5. Existe-t-il des personnes qui souhaitent rejoindre avant l'ouverture ? Inscriptions/ajout au rôle.
+* Ouverture de l'AG
 
 ## Déroulement de l'AG 
 Le plus court possible, et uniquement sur les décisions préparées.
+
+## Post-AG
+Festivités requises: Partager un verre, un restaurant, un bar, une activité, une détente: Mais permettant échanges et discussions libres. 
 ---
-Procès –verbal standard d’une assemblée générale
-
-
-PV de l’Assemblée Générale de l’association «nom de l’association» du «date» à «lieu»
-
-Présents : «liste des personnes présentes»
+Procès–verbal standard d’une assemblée générale
+---
+# PV de l’Assemblée Générale de l’association «nom de l’association» du «date» à «lieu»
+Rapporteur: X
+Scrutrateurs: Y + Z
+Présidence: M/Mme Xxxx Xxxxxx (titre/rôle)
+Présents : «liste des personnes présentes» (feuille de présence
 
 Excusés : «liste des personnes excusées»
 
@@ -39,26 +43,30 @@ Excusés : «liste des personnes excusées»
 1.	Accueil et bienvenue
 	«Reporter les mots de bienvenue du président»
 
-2.	Adoption du procès-verbal de la dernière assemblée générale
-	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée
+2.	**Adoption du procès-verbal de la dernière assemblée générale** (vote)
+	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée, avec remerciements à son rapporteur
 
-3.	Adoption du rapport d'activité
+3.	Adoption ou simple rapport d'activité (_vote optionnel_)
 	«Résumé du rapport d’activité lu par le président»
 
 4.	Présentation des comptes
 	«Résumé des commentaires du caissier»
 
-5.	Adoption des comptes
-	Suite au rapport des vérificateurs des comptes, les comptes sont acceptés par l’assemblée, et décharge est donnée au comité et aux vérificateurs des comptes.
+5.	**Adoption des comptes (2 votes)**
+	Suite au rapport des vérificateurs des comptes:
+	* les comptes sont acceptés par l’assemblée, 
+	* et décharge est donnée au comité et aux vérificateurs des comptes.
 
 6.	Adoption du programme d'activité (pour l'année suivante) de l’Association 
 	«Résumé du futur programme d’activité présenté par le président»
 
-7	Fixation du montant des cotisations
+7.	Fixation du **montant des cotisations (vote)**
 	L’assemblée décide du montant des cotisations pour l’année en cours, à savoir ...
 
 8.	Budget
 	«Le caissier présente et commente le budget pour l’année suivante»
+	Questions, suggestions ?
+	**Vote du budget**
 
 9. 	Elections
 	Sont élus (ou réélus) au comité : «liste des membres élus»
