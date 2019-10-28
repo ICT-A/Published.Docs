@@ -26,8 +26,9 @@
 ## Déroulement de l'AG 
 Le plus court possible, et uniquement sur les décisions préparées.
 
-## Post-AG
-Festivités requises: Partager un verre, un restaurant, un bar, une activité, une détente: Mais permettant échanges et discussions libres. 
+## Post-AG ##
+Festivités requises: Partager un verre, un restaurant, un bar, une activité, une détente: Mais permettant échanges et discussions libres.
+
 ---
 Procès–verbal standard d’une assemblée générale
 ---
