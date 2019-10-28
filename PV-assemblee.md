@@ -5,7 +5,7 @@
      * Avertir que les absents peuvent s'abtenir au lieu de voter "oui")
      * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. 
      * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
-  2. Rapport d'activité de l'année (très résumé, photos, vidéo... témoignages)
+  2. Rapport d'activité de l'année 
   3. 
   
 * La convocation dans les délais (vérifier les statuts), 
@@ -48,13 +48,14 @@ Procès–verbal standard d’une assemblée générale
 * Absents : (lister les absents non excusés)
 
 1.	Accueil et bienvenue
-	«Reporter les mots de bienvenue du président»
+	* «Reporter les mots de bienvenue du président»
 
 2.	**Adoption du procès-verbal de la dernière assemblée générale** (vote)
-	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée, avec remerciements à son rapporteur
+	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée, avec remerciements à son rapporteur X.
 
 3.	Adoption ou simple rapport d'activité (_vote optionnel_)
 	* «Résumé du rapport d’activité lu par le président»
+	* très résumé, photos, vidéo... témoignages _(pas un discour barbant!)_
 
 4.	Présentation des comptes
 	* «Résumé des commentaires du caissier»
