@@ -2,9 +2,12 @@
 ## Avant l'AG
 * Un ordre du jour complet:
   1. Introduction - Adoption du PV de l'AG précédente
-    * Avertir que les absents peuvent s'abtenir au lieu de voter "oui")
-    * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. On invite à transmettre les corrections avant, sans attendre l'AG suivante.
+     * Avertir que les absents peuvent s'abtenir au lieu de voter "oui")
+     * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. 
+     * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
   2. Rapport d'activité de l'année (très résumé, photos, vidéo... témoignages)
+  3. 
+  
 * La convocation dans les délais (vérifier les statuts), 
   * Recommandé: les emails explicitement autorisés dans statuts (pour éviter les grincheux).
   * Inclure à nouveau le PV de l'AG de l'année précédente, 
@@ -48,34 +51,35 @@ Excusés : «liste des personnes excusées»
 	Le procès verbal de l’Assemblée Générale du xxxx (année précédente) est adopté par l’assemblée, avec remerciements à son rapporteur
 
 3.	Adoption ou simple rapport d'activité (_vote optionnel_)
-	«Résumé du rapport d’activité lu par le président»
+	* «Résumé du rapport d’activité lu par le président»
 
 4.	Présentation des comptes
-	«Résumé des commentaires du caissier»
+	* «Résumé des commentaires du caissier»
 
 5.	**Adoption des comptes (2 votes)**
 	Suite au rapport des vérificateurs des comptes:
 	* les comptes sont acceptés par l’assemblée, 
 	* et décharge est donnée au comité et aux vérificateurs des comptes.
 
-6.	Adoption du programme d'activité (pour l'année suivante) de l’Association 
-	«Résumé du futur programme d’activité présenté par le président»
+6.	Adoption, ou simple présentation, du programme d'activité (pour l'année suivante) de l’Association 
+	* «Résumé du futur programme d’activité présenté par le président»
+	* _(Votre optionnel, mais le prévoir avant dans la convocation)_
 
 7.	Fixation du **montant des cotisations (vote)**
-	L’assemblée décide du montant des cotisations pour l’année en cours, à savoir ...
+	* L’assemblée décide du montant des cotisations pour l’année en cours, à savoir ... _(peut confirmer les mêmes)_
 
 8.	Budget
-	«Le caissier présente et commente le budget pour l’année suivante»
-	Questions, suggestions ?
-	**Vote du budget**
+	* «Le caissier présente et commente le budget pour l’année suivante»
+	* Questions, suggestions ?
+	* **Vote du budget**
 
-9. 	Elections
-	Sont élus (ou réélus) au comité : «liste des membres élus»
-	Est élu (ou réélu) président : «nom du président»
-	Sont élus (ou réélus) comme vérificateurs des comptes : «noms des personnes élus»
+9. 	**Elections (2-3 votes)**
+	* Sont élus (ou réélus) au comité : «liste des membres élus»
+	* Est élu (ou réélu) président : «nom du président» (si prévus dans statuts)
+	* Sont élus (ou réélus) comme vérificateurs des comptes : «noms des personnes élus»
 
-10. 	Divers, propositions individuelles
-	«Liste des divers abordés»
+10.	Divers, propositions individuelles
+	* «Liste des divers abordés»
 
 Plus personne ne demandant la parole, le président lève la séance en remerciant tous les membres de leur participation. Il est xxHyy.
 
