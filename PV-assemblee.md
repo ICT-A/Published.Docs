@@ -38,8 +38,9 @@ Le plus court possible, et uniquement sur les décisions préparées.
 2. Désignation/demande de volontaire pour le rapporteur afin de prendre le PV
 3. Désignation des scrutateurs (x2)
 4. PV de l'année précédente: 
-* Remerciements aux dernières corrections proposées par X, Y sur la seconde copie du PV envoyé le mois passé.
-* remerciements aux premières corrections proposées par Z lors de la première présentation 1 mois après la dernière AG.
+* Remerciements aux dernières corrections proposées par X, Y sur la seconde copie du PV envoyé le mois passé:
+  * énumération des corrections
+* remerciements aux premières corrections proposées par Z lors de la première présentation 1 mois après la dernière AG, déjà incluses.
 * Y a-t-il des remarques résiduelles malgrés le fait que ce PV a été remis il y à 11 mois et à nouveau il y a un mois en vous invitant à faire vos remarques et corrections, avant cette AG? _(cela calme les vélléités, temps gagné)_
 * Vote 1: Avertir que les absents peuvent s'abtenir au lieu de voter "oui"
   * Qui s'oppose à ce PV ?
