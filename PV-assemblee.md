@@ -1,6 +1,6 @@
 # Exemple de déroulement d'Assemblée Générale
 ## Avant l'AG
-* Un ordre du jour complet:
+* Un [ordre du jour](https://github.com/ICT-A/Published.Docs/blob/master/CONVOC-AG.md) complet:
   1. Introduction - Adoption du PV de l'AG précédente
      * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. Avec la date prévue de l'AG suivante et rappel du délai pour soumettre une demande de sujet de vote (imposé), ou des suggestions (le comité décide).
      * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
