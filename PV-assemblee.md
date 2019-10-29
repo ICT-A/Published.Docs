@@ -2,8 +2,7 @@
 ## Avant l'AG
 * Un ordre du jour complet:
   1. Introduction - Adoption du PV de l'AG précédente
-     * Avertir que les absents peuvent s'abtenir au lieu de voter "oui")
-     * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. 
+     * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. Avec la date prévue de l'AG suivante et rappel du délai pour soumettre une demande de sujet de vote (imposé), ou des suggestions (le comité décide).
      * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
   2. Rapport d'activité de l'année 
   3. 
@@ -15,7 +14,14 @@
     * mais si jamais, bien relire avant l'AG, car le PV ne sera pas lu durant l'assemblée... (comme cela, c'est prévenu)
 * Une activité ouverte et publique, ciblant les mêmes types de participants, que pour les membres cibles de l'association.
   * En amont de l'AG, avec invitations indépendantes de l'AG (Meetup, Eventbrite, Facebook...)
+    * 1h max: * Description de l'activité préliminaire à l'AG (max 1h)
+    * Boissons/collation: 30mn min
+    * 15mn: Rabattre tout le monde pour l'AG (y compris les pas membres): 2 à 3 du comité doivent s'y atteler (les plus grosses voix)
   * Un apéro dinatoire, en aval de l'AG (mais cela c'est vicieux, on peut faire avant aussi)
+  
+  * Collation/boissons/échanges sympas (min 30 mn)
+* Battre le rappel, et faire venir tout le monde pour l'AG (y compris les pas encore membres)
+
 
 ## Acceuil
 * prévoir le délai pour se mettre en place, feuille de présence.
@@ -24,7 +30,7 @@
 3. Explication ce qu'est l'association pour les nouveaux
 4. invitation à rester pour l'AG.  Présentation de l'ordre du jour prévu
 5. Existe-t-il des personnes qui souhaitent rejoindre avant l'ouverture ? Inscriptions/ajout au rôle.
-* Ouverture de l'AG
+* Ouverture de l'AG (attention, les nouveaux membres doivent être admis avant l'ouverture de l'AG. Exception: Si les statuts prévoient adoption des nouveaux membres soumis à l'AG, ce qui est mauvais plan, mais cela se discute).
 
 ## Déroulement de l'AG 
 Le plus court possible, et uniquement sur les décisions préparées.
@@ -35,12 +41,14 @@ Le plus court possible, et uniquement sur les décisions préparées.
 * Remerciements aux dernières corrections proposées par X, Y sur la seconde copie du PV envoyé le mois passé.
 * remerciements aux premières corrections proposées par Z lors de la première présentation 1 mois après la dernière AG.
 * Y a-t-il des remarques résiduelles malgrés le fait que ce PV a été remis il y à 11 mois et à nouveau il y a un mois en vous invitant à faire vos remarques et corrections, avant cette AG? _(cela calme les vélléités, temps gagné)_
-* Vote 1: 
+* Vote 1: Avertir que les absents peuvent s'abtenir au lieu de voter "oui"
   * Qui s'oppose à ce PV ?
   * Qui s'abstient ? (les crutateurs comptent)
   * Par déduction des abstentions et oppositions, adopté à l'unanimité, avec nos remerciements au rapporteur X (**_IMPORTANT_** le désigner et l'applaudir)
 5. Rapport(s) d'activité(s)
 * Résister à la tentation et faire un résumé très court, si possible animations, photos, films...
+* Résister à la tentation de faire le moindre vote d'approbation, par contre, faire aplaudir à chaque occasion possible.
+6. 
 
 
 ## Post-AG ##
