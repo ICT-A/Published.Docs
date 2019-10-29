@@ -8,8 +8,14 @@
 ## séance de l'AG prévue à "heure3" (h1+2h)
 * Sous la présidence de: M/Mme Xxxx Xxxxxx (titre/rôle)
 * Veuillez retrouver ci-joint le PV de l'AG de l'année passée, corrigée/sans_corrections suite à sa communication <date envoi>. Merci de nous aviser avant l'AG d'éventuelles (nouvelles) corrections.
+* Veuillez trouver ci-joint les rapports de gestion et bilan comptable.
+* Veuillez nous aviser si vous accepteriez de rejoindre le comité, avant notre AG.
 
 ## L'ordre du jour suivant a été établi
 Conformément aux statuts, il inclus les suggestions demandées avant la date limite du <date>
-1. Acceuil par le président et rapport d'activités
-2. Adoption du PV de l'AG précédente (copie jointe): Merci de nous transmettre vos corrections et remarques
+1. Acceuil par le président et adoption du PV de l'AG précédente
+2. Rapport(s) d'activités
+3. Présentation des comptes et décharge au comité et aux vérificateurs
+4. Projets et cotisations pour l'année suivante: Vote du Budget (et éventuels projets)
+5. Elections de nouveaux membres du comité (démissions éventuelles) et des 2 crutateurs + 1 suppléant.
+6. Divers et propositions individuelles.
