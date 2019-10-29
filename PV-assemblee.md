@@ -14,14 +14,12 @@
     * mais si jamais, bien relire avant l'AG, car le PV ne sera pas lu durant l'assemblée... (comme cela, c'est prévenu)
 * Une activité ouverte et publique, ciblant les mêmes types de participants, que pour les membres cibles de l'association.
   * En amont de l'AG, avec invitations indépendantes de l'AG (Meetup, Eventbrite, Facebook...)
-    * 1h max: * Description de l'activité préliminaire à l'AG (max 1h)
+    * 1h max: Description de l'activité préliminaire à l'AG
     * Boissons/collation: 30mn min
     * 15mn: Rabattre tout le monde pour l'AG (y compris les pas membres): 2 à 3 du comité doivent s'y atteler (les plus grosses voix)
+    * Battre le rappel, et faire venir tout le monde pour l'AG (y compris les pas encore membres)
   * Un apéro dinatoire, en aval de l'AG (mais cela c'est vicieux, on peut faire avant aussi)
-  
-  * Collation/boissons/échanges sympas (min 30 mn)
-* Battre le rappel, et faire venir tout le monde pour l'AG (y compris les pas encore membres)
-
+    * Sinon Collation/boissons/échanges sympas (min 30 mn)
 
 ## Acceuil
 * prévoir le délai pour se mettre en place, feuille de présence.
