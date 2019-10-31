@@ -4,17 +4,17 @@
 ### Ordre du jour
 Un [ordre du jour](https://github.com/ICT-A/Published.Docs/blob/master/CONVOC-AG.md) complet:
   1. Introduction - Adoption du PV de l'AG précédente
-    * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. Avec la date prévue de l'AG suivante et rappel du délai pour soumettre une demande de sujet de vote (imposé), ou des suggestions (le comité décide).
-    * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
+     * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. Avec la date prévue de l'AG suivante et rappel du délai pour soumettre une demande de sujet de vote (imposé), ou des suggestions (le comité décide).
+     * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
   2. Rapport d'activité de l'année 
   3. Présentation des comptes et du budget, approbrations et décharges
-    * inutile de préciser le vote sur la validation du montant des cotisations
-    * Mais si un changement est prévu, et justifié par un projet, l'inclure dans l'ordre du jour, après le point 4 ci-dessous
+     * inutile de préciser le vote sur la validation du montant des cotisations
+     * Mais si un changement est prévu, et justifié par un projet, l'inclure dans l'ordre du jour, après le point 4 ci-dessous
   4. Projets à venir de l'association, moyens et besoins, appels à volontaires
   5. Budgets (et confirmation des cotisations)
   6. Election et renouvellement du comité
-    * Annoncer les démissions
-    * Annoncer les propositions
+     * Annoncer les démissions
+     * Annoncer les propositions
    7. Divers et propositions individuelles (merci d'en aviser le comité dès que possible)
      * annoncer celles connues
 
