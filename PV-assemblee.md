@@ -86,6 +86,12 @@ Festivités requises:
 * Partager un verre, un restaurant, un bar, une activité, une détente...
 * Permettant échanges et discussions libres.
 
+# dans les 30 jours après l'AG
+Envoyer le PV de l'AG avec :
+* Demander de transmettre les avis de corrections immédiatement
+* Annoncer la date de la prochaine AG, rappeler le délai pour y faire adresser un sujet à l'ordre du jour.
+* Autres annonces.
+
 ---
 Procès–verbal standard d’une assemblée générale
 ---
