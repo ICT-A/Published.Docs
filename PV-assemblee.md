@@ -1,25 +1,51 @@
 # Exemple de déroulement d'Assemblée Générale
+
 ## Avant l'AG
+### Ordre du jour
 * Un [ordre du jour](https://github.com/ICT-A/Published.Docs/blob/master/CONVOC-AG.md) complet:
   1. Introduction - Adoption du PV de l'AG précédente
      * Si le PV de l'AG est transmis dans les 30 jours suivants l'AG, c'est mieux. Avec la date prévue de l'AG suivante et rappel du délai pour soumettre une demande de sujet de vote (imposé), ou des suggestions (le comité décide).
      * On invite à transmettre les corrections avant, sans attendre l'AG suivante.
   2. Rapport d'activité de l'année 
-  3. 
-  
+  3. Présentation des comptes et du budget, approbrations et décharges
+     * inutile de préciser le vote sur la validation du montant des cotisations
+     * Mais si un changement est prévu, et justifié par un projet, l'inclure dans l'ordre du jour, après le point 4 ci-dessous
+  4. Projets à venir de l'association, moyens et besoins, appels à volontaires
+  5. Budgets (et confirmation des cotisations)
+  6. Election et renouvellement du comité
+     * Annoncer les démissions
+     * Annoncer les propositions
+   7. Divers et propositions individuelles (merci d'en aviser le comité dès que possible)
+
+### Convocation
 * La convocation dans les délais (vérifier les statuts), 
   * Recommandé: les emails explicitement autorisés dans statuts (pour éviter les grincheux).
   * Inclure à nouveau le PV de l'AG de l'année précédente, 
     * rappeler qu'il a été transmis il y a 11 mois et que donc, toutes remarques et corrections ont déjà été remises, 
     * mais si jamais, bien relire avant l'AG, car le PV ne sera pas lu durant l'assemblée... (comme cela, c'est prévenu)
-* Une activité ouverte et publique, ciblant les mêmes types de participants, que pour les membres cibles de l'association.
+  * Inclure les comptes (Bilans) qui vont être présentés dans la convocation
+  * Inclure le Budget
+    * Une association honnête et transparente, ne cherchant pas à manipuler, n'a rien à cacher.
+    * Proposer d'avertir immédiatement en cas d'erreurs détectées ou supposées, malgrés les contrôleurs, et idem pour les questions.
+* Mieux: Prévoir une activité ouverte et publique, ciblant les mêmes types de participants, que pour les membres cibles de l'association.
   * En amont de l'AG, avec invitations indépendantes de l'AG (Meetup, Eventbrite, Facebook...)
     * 1h max: Description de l'activité préliminaire à l'AG
     * Boissons/collation: 30mn min
     * 15mn: Rabattre tout le monde pour l'AG (y compris les pas membres): 2 à 3 du comité doivent s'y atteler (les plus grosses voix)
     * Battre le rappel, et faire venir tout le monde pour l'AG (y compris les pas encore membres)
-  * Un apéro dinatoire, en aval de l'AG (mais cela c'est vicieux, on peut faire avant aussi)
+  * Un apéro dinatoire, en aval de l'AG (mais cela est un poil pernicieux, on peut faire avant aussi)
     * Sinon Collation/boissons/échanges sympas (min 30 mn)
+
+### Vérification des comptes
+Les comptes ont été vérifiés par les 2 vérificateurs, et le suppléant le cas échéant. Ils produisent un rapport, sur le modèle ci-dessous.
+#### Rapport des vérificateurs des comptes 
+Conformément au mandat qui nous a été confié par l’Assemblée générale et aux Statuts de l’Association XXX, nous avons procédé à la vérification des comptes de l’Association XXX, arrêtés au 31 décembre 2xxx. La vérification a porté sur la période du 1er janvier au 31 décembre 2xxx, conformément aux statuts de l’Association XXX.
+Nous sous sommes assurés de la concordance des soldes de comptes de banque et de chèques postaux à cette même date avec les relevés de comptes arrêtés par les Banques X et Y.
+Nous avons procédé à la vérification des dépenses enregistrées au cours de l’exercice par le pointage aléatoire avec les documents justificatifs de base, et obtenu tous les détails et explications nécessaires grâce à une excellente tenue des classeurs de facturation.
+Nous remercions <LE·LA TRESORIER·E> pour la tâche qu’elle a accomplie avec sérieux et bienveillance dans la tenue de la comptabilité de l’Association XXX.
+Nous certifions les comptes tels qu’ils sont présentés et formulons les réserves d’usage dans la mesure où les faits et documents susceptibles de modifier les résultats n’auraient pas été portés à notre connaissance.
+Nous demandons à l’Assemblée générale d’approuver les comptes de l’Association XXX pour l’année 2xxx.
+<Date de production du rapport, noms et signatures des réviseurs>
 
 ## Acceuil
 * prévoir le délai pour se mettre en place, feuille de présence.
@@ -47,7 +73,10 @@ Le plus court possible, et uniquement sur les décisions préparées.
 5. Rapport(s) d'activité(s)
 * Résister à la tentation et faire un résumé très court, si possible animations, photos, films...
 * Résister à la tentation de faire le moindre vote d'approbation, par contre, faire aplaudir à chaque occasion possible.
-6. 
+6. Présentation des comptes
+* si possible documents remis ou projection
+* Q&R
+7. Rapport des véréficateurs des comptes
 
 
 ## Post-AG ##
@@ -84,6 +113,8 @@ Procès–verbal standard d’une assemblée générale
 
 4.	Présentation des comptes
 	* «Résumé des commentaires du caissier»
+	* Rapport des vérificateurs des comptes. (Lettre annexée 
+	* Questions: Les énumérer et résumer la réponse si possible.
 
 5.	**Adoption des comptes (2 votes)**
 	Suite au rapport des vérificateurs des comptes:
@@ -111,7 +142,3 @@ Procès–verbal standard d’une assemblée générale
 	* «Liste des divers abordés»
 
 Plus personne ne demandant la parole, le président lève la séance en remerciant tous les membres de leur participation. Il est xxHyy.
-
----
-### exemples à supprimer
-* https://www.diabetevaud.ch/wp-content/uploads/2018/04/PV-AG-AVD-13-mai-2017-1.pdf
