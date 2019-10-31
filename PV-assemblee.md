@@ -79,6 +79,7 @@ Le plus court possible, et uniquement sur les décisions préparées.
 * si possible documents remis ou projection
 * Q&R
 7. Rapport des véréficateurs des comptes
+TK
 
 ## Post-AG ##
 Festivités requises: 
