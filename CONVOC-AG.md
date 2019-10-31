@@ -17,7 +17,7 @@ Conformément aux statuts, il inclus les suggestions demandées avant la date li
 2. Rapport(s) d'activités
 3. Présentation des comptes et décharge au comité et aux vérificateurs
 4. Projets et cotisations pour l'année suivante: Vote du Budget (et éventuels projets)
-5. Elections de nouveaux membres du comité (démissions éventuelles) et des 2 crutateurs + 1 suppléant.
+5. Elections de nouveaux membres du comité (démissions éventuelles) et des 2 vérificateurs + 1 suppléant.
 6. Divers et propositions individuelles.
 
 ## Autre dates
