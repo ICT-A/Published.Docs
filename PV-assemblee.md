@@ -78,8 +78,8 @@ Le plus court possible, et uniquement sur les décisions préparées.
 6. Présentation des comptes
 * si possible documents remis ou projection
 * Q&R
-7. Rapport des véréficateurs des comptes
-TK
+7. Rapport des vérificateurs des comptes
+* TK
 
 ## Post-AG ##
 Festivités requises: 
