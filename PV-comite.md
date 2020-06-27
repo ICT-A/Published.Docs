@@ -29,6 +29,7 @@ Noter la subtile différence avec les habituels comité ou AG, pour soutenir les
     * qui s'oppose ? Et s'il y a, on suspend le vote pour écouter la raison, et on la résume dans le PV si possible.
     * qui s'abtient: on compte les voix, sans noter les noms (sauf sur demande).
     * On n'a plus besoin de voter et compter les pours, c'est le reste, et on peut mentionner "unanimité" si zéro ci-dessus.
+* On cite (dans le PV) et on remercie chaleureusement le rapporteur précédent
 ### point 1
 Faire 1 résumé du sujet, et lister les options qui pèsent dans une décision, un choix.
 * Rapporter les votes et décisions, avec le nom des personnes divergentes dans la décision
