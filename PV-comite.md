@@ -1,5 +1,5 @@
 # Exemple de PV pour une séance de comité
-Faire simple, mais faire complet. Le déroulement est en fait comme une AG. Le document est moins formel, il n'a pas à rapporter tous le séchanges ni toutes les discussions, mais lister les points, et les décisions, et qui doit faire quoi d'ici la prochaine séance.
+Faire simple, mais faire complet. Le déroulement est en fait comme une AG. Le document est moins formel, il n'a pas à rapporter tous les échanges ni toutes les discussions, mais lister les points, et les décisions, et qui doit faire quoi d'ici la séance suivante, ou un autre moment.
 
 ## en-tête
 * Date/lieu/nom de l'association
