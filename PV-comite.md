@@ -1,5 +1,5 @@
 # Exemple de PV pour une séance de comité
-Faire simple
+Faire simple, mais faire complet. Le déroulement est en fait comme une AG. Le document est moins formel, il n'a pas à rapporter tous le séchanges ni toutes les discussions, mais lister les points, et les décisions, et qui doit faire quoi d'ici la prochaine séance.
 
 ## en-tête
 * Date/lieu/nom de l'association
@@ -37,6 +37,8 @@ Faire 1 résumé du sujet, et lister les options qui pèsent dans une décision,
   * Rapporter un résumé des causes de divergences (si la personne le souhaite)
 * Les abstentions ne sont généralement pas expliquées ni signées (sauf sur demande)
 * Mentionner si ce point fera l'objet d'une action pour l'AG suivante, et expliquer laquelle.
+* Mentionner si des tâches doivent être réalisées d'ici le prochain comité
+  * Option intéressante, rapporter directement cette tâche dans un KANBAN, ou une liste de tâches dans une table annexe.
 ### point 2
 Répéter comme au point 1
 ### divers et propositions
@@ -48,6 +50,8 @@ Répéter comme au point 1
   * L'information doit être relayée sur le site web et pages réseaux sociaux: Déclamations publiques.
   * L'information fera l'objet d'un communiqué public: La totale.
 ### Cloture
+* Rappeler la date/lieu/heure de la prochaine AG
+* Rappeler la date/lieu/heure du prochain comité
 * Dans le PV: Le président cloture la séance à telle heure.
 ## festif
 Ajouter un moment convivial, un partage, une réjouissance, une collation, un cadeau, une idée, pour récompenser tous les participants.
