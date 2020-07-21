@@ -45,6 +45,8 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
 * Indépendance et transparence
   * Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
   * Comme les experts restent limités à leurs domaines de connaissances, un partage et des RFI permetttent d'élargir le champ des possibles, à moindre frais.
+    * La relecture par les pairs du collectif (inclus le binôme à minima, possibilité d'élargir) assurent aussi une intelligence collective.
+    * Les documents d'analyses et d'évaluations sont partagées librement en Creative Common ( http://blog.ict-a.ch )
+    * Exemple: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd
   * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients.
-  
-  
+ 
