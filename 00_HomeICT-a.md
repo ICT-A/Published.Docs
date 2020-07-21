@@ -4,5 +4,7 @@
 * http://ict-a.ch est une association vaudoise d'informaticiens indépendants.
 
 ## Voici les documents de référence pour les offres et descriptions d'ICT-a.ch
-
-TK
+### Descriptions
+* https://github.com/ICT-A/Published.Docs/blob/master/ICT-a.Descriptions.md
+### Conseiller Numérique
+* https://github.com/ICT-A/Published.Docs/blob/master/ICT-a.ConseillerNum%C3%A9rique.md
