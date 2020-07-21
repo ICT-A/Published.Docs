@@ -18,14 +18,14 @@ Modèles, exemples, et même discussions et réflexions sur les outils et les so
 # Des solutions logicielles expérimentées pour les associations
 _(en construction)_
 ## Gestion
-* Clubdesk
 [Gestion Association]
+* Clubdesk
 
 ## Collaboration
+[Collaborer association]
 * Framavox (Loomio)
 * Microsoft 365
 * G suite
-[Collaborer association]
 
 ## TK
 A compléter
