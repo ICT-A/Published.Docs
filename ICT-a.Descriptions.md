@@ -1,4 +1,4 @@
-# C'est quoi #
+# ICT-a, c'est quoi #
 ## 2019 ##
 Réseau de conseillers, médiateurs et formateurs dans le domaine numérique en Suisse romande. "ICT-a" est une association collaborative de consultants expérimentés active dans :
 * Le conseil dans la recherche de solutions numériques innovantes et pérennes
