@@ -16,7 +16,7 @@ Modèles, exemples, et même discussions et réflexions sur les outils et les so
 * [Convention type (collaboration inter-organisations)](https://github.com/SolutionsDurables/Published.Docs/blob/master/conventions.md)
 
 # Les solutions logicielles expérimentée pour les associations
-
+_(en construction)_
 ## Gestion
 [Gestion Association]
 
