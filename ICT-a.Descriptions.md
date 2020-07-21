@@ -43,4 +43,4 @@ Les recommandations dispensées par ce réseau aux PME sont le reflet d’une an
 * Informatique, Digital, Numérique, Internet, Web, Télécom, Erp : Technologie de l’Information (TIC)
 * CTO, CIO Chief Technical/Information Officer, DSI Directeur Système d’Information
 * Plus récent : Chief Digital Officer (CDO)
-* Aussi: DPO (Data Protection Officer), DPD en français (
+* Aussi: DPO (Data Protection Officer), DPD en français (Délégué à la Protection des Données)
