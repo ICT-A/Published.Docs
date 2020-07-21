@@ -1,5 +1,6 @@
 Une base documentaire pour les associations, en Suisse romande.
 Modèles, exemples, et même discussions et réflexions sur les outils et les solutions pour les associations et organisations non profit, en Suisse romande.
+Pour les fichiers sur ICT-a, c'est ici https://github.com/ICT-A/Published.Docs/blob/master/00_HomeICT-a.md
 
 # Les documents types d'une association
 * [Status type](https://github.com/SolutionsDurables/Published.Docs/blob/master/Statuts-type-Art60.md)
