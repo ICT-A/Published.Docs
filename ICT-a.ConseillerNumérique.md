@@ -49,4 +49,6 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
     * Les documents d'analyses et d'évaluations sont partagées librement en Creative Common ( http://blog.ict-a.ch )
     * Exemple: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd
   * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients.
+* Déontologie
+  * Il n'est pas possible de disposer d'une signature @ICT-a.ch ou @C2N.ch sans être signataire de la charte http://kalix.ict-a.ch
  
