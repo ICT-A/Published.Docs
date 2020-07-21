@@ -1,5 +1,5 @@
 # Conseiller Numérique
-Le conseiller numérique externe fait office de responsable informatique (CTO/CIO) soit pour derd
+Le conseiller numérique externe fait office de responsable informatique (CTO/CIO) soit pour des petites structures, soit pour assurer un ou plusieurs second regards.
 
 ## Rôles ##
 * Assurer le lien entre les entrepreneurs, les décideurs; et le monde numérique, les fournisseurs informatiques.
