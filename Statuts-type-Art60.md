@@ -77,7 +77,7 @@ Son but principal est de _Objectifs_, pour _SaRaisonDEtre_.
 
 Elle s'appuie sur les valeurs suivantes:
 > **Exemple**: Transparence: les activités, finances et travaux sont accessibles publiquement. Tolérance: _à expliciter_; Liberté; _à expliquer_; Bienveillance: Bientraiter le monde vivant et minéral de la planète; Lucidité: _etc..._
-> **Exemple**: SDVD réalise ses buts dans le respect de la charte “SolutionsDurables” [(Charte SD)](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md) disponible sur le site web [SolutionsDurables.ch](SolutionsDurables.ch).
+> _Il est aussi possible de s'appuyer sur une charte existante ou à créer._ **Exemple**: SDVD réalise ses buts dans le respect de la charte “SolutionsDurables” [(Charte SD)](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md) disponible sur le site web [SolutionsDurables.ch](SolutionsDurables.ch).
 
 ### Article 3 - Siège et durée
 Cette association ***vaudoise*** dispose d'un siège à l'adresse ***SiègeAssociation***. Sa durée est indéterminée.
