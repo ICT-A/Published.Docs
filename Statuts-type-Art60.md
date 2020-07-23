@@ -170,6 +170,7 @@ Elle est l'organe souverain et se réunit une fois par an en session ordinaire. 
 > _Cette dernière particularité est à supprimer si les membres actifs peuvent être des personnes morales, ce qui n'est pas le cas dans notre proposition._
 
 Elle peut se réunir en session extraordinaire chaque fois que nécessaire à la demande du comité ou de 1/5ème des membres actifs. L’assemblée extraordinaire sera convoquée dans les mêmes formes que l’assemblée ordinaire.
+> _Il est possible de réduire le taux de 20%, mais pas de l'augmenter, car la loi exige l'organisation d'une AG dès une demande de 20% des membres. On peut donc définir 10%, mais pas 25%._
 
 Le comité communique aux membres par courriel la date de l'assemblée générale au moins 2 mois à l'avance. Les membres actifs peuvent soumettre un point à l’ordre du jour, au moins 1 mois à l’avance, et dont la bonne réception doit être confirmée par le comité. La convocation mentionnant l'ordre du jour est adressée par le comité à chaque membre au moins 10 jours à l'avance. Si le point demandé par un membre nécessite une préparation par le comité que ne permet pas le délai de 20 jours avant la convocation, le comité peut le reporter au maximum à l'AG de l'année suivante, ou pour une AG extraordinaire, ou encore via une consultation numérique. Si la demande a été soumise plus 4 mois avant l'AG, le point devra être intégré lors de cette AG, avec les éventuelles clarifications et suggestions sollicitées par le comité. 
 
