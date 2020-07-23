@@ -82,8 +82,11 @@ Elle s'appuie sur les valeurs suivantes:
 ### Article 3 - Siège et durée
 Cette association ***vaudoise*** dispose d'un siège à l'adresse ***SiègeAssociation***. Sa durée est indéterminée.
 > _Pour une association avec un objectif associé à sa dissolution, cette condition peut être temporelle: ex. "Organiser un évènement unique", ou réalisationnelle: ex. "réduire la production de CO2 de la Suisse à zéro"._
+
 > **Exemple:** “SolutionsDurables, CP 202, CH-1009 Pully” (_cf. http://CP202.ch si besoin d'une case postale vaudoise, et économiser 240F/an_), ou encore _à l'adresse de sa présidence._
+
 > _**Attention:** Une association ne peut pas exister sans disposer d'une adresse physique, qui va conditionner sa juridiction cantonale, même si elle est à vocation nationale ou internationale. Dans le cas d'une présidence qui loge en zone frontalière, il est alors impératif d'expliciter le canton de rattachement de l'association. Dans les Buts, la portée peut être étendue, ex. "toute la Suisse romande", mais une personne morale doit résider juridiquement dans un seul canton. Sinon, il faut établir multiples personnes morales, dans chaque canton, ou bien des "divisions" cantonales déléguées, assujetties à des juridictions distinctes. Nous recommandons d'expliciter en Suisse les aspects juridiques en créant une faitière d'associations, et une association par canton. Cela permet aussi de faciliter les aides cantonales et communales._
+
 > cf. https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-Art60.md#inscriptions
 
 ## Organisation
