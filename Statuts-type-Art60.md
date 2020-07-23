@@ -234,9 +234,16 @@ D'autres points peuvent être ajouté par le comité, ainsi que par les membres 
 Le comité est autorisé à faire tous les actes qui se rapportent aux buts de l'association. Il a les pouvoirs les plus étendus pour la gestion des affaires courantes.
 
 ### Article 14 - Composition du comité
-Le comité élu par l'assemblée générale se compose de 3 membres ou plus, 2 au minimum.
+Le comité élu par l'assemblée générale se compose de 3 membres ou plus, 2 au minimum, élu par l'AG. Au moins les 3 rôles suivants seront distribués à son prochain comité, excepté si cette répartition des rôles a déjà été préparée et validée en amont, et en absence d'opposition, la distribution peut être présentée à l'AG directement et mis à son PV:
+* La présidence
+* La finance (Trésorier·ère)
+* Le secrétariat (Greffe)
 
-La durée du mandat est de 3 ans renouvelables et de préférence par rotation des membres et non tous en un seul bloc. Tout membre du comité peut démissionner à tout moment, et rester membre de l’association s'il le souhaite. Le comité restant s’auto-organise en conséquence. Il peut pré-empter des nouveaux membres au comité qui seront proposés à élection lors de l'AG suivante. Leurs voix ne sont que consultatives jusqu'à leur élection, mais le comité a le droit d'en tenir compte selon son bon vouloir.
+Le comité s'organise de lui-même avec le nombre et la création des rôles qu'il estime nécessaires. Les membres peuvent cumuler et partager des rôles, par exemple 2 co-présidences au lieu d'une seule, ou encore un secrétaire-trésorier.
+
+La durée du mandat est de 3 ans renouvelables et de préférence par rotation des membres et non tous en un seul bloc. Tout membre du comité peut démissionner à tout moment, et rester membre de l’association s'il le souhaite. 
+
+Le comité peut pré-empter des nouveaux membres en son sein qui seront proposés à élection lors de l'AG suivante. Leurs voix ne sont que consultatives jusqu'à leur confirmation, mais le comité a le droit d'en tenir compte selon son bon vouloir.
 
 Le comité se réunit autant de fois que les affaires de l'association l'exigent.
 
