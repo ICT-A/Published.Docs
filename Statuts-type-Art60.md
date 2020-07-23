@@ -178,7 +178,7 @@ Les membres peuvent donner procuration à un autre membre passif ou actif. Le me
 L'assemblée générale est valablement constituée quel que soit le nombre de membres présents et représentés.
 > _Les contraintes ci-dessus peuvent être adaptées et restent une suggestion: Elles sont toutefois basées sur de nombreuses observations et difficultés pratiques constatées._
 
-### Article 8 - Organisation de l’AG
+### Article 8 - compétences de l’AG
 L'assemblée générale :
 * se prononce sur l'admission ou l'exclusion des membres,
 * élit les membres du comité,
@@ -190,7 +190,8 @@ L'assemblée générale :
 * décide de toutes modifications des statuts,
 * décide de la dissolution de l'association.
 
-La conclusion des débats et les votes sont protocolés dans un procès-verbal décisionnel, soumis à l'approbation des membres à l'AG suivante.
+La conclusion des débats et les votes sont protocolés dans un procès-verbal décisionnel (PV), soumis à l'approbation des membres à l'AG suivante. 
+> _Sans l'expliciter dans les statuts, le PV doit être remis lors de la convocation à l'AG suivante, toutefois il est recommandé de l'envoyer peu après l'AG elle-même afin de permettre une relecture avec l'esprit "frais". Il est renvoyé à nouveau l'année suivante, en intégrant les corrections éventuelles avec remerciements.
 
 ### Article 9 - Présidence de l’AG
 L'assemblée générale est présidée par le·la président·e de l'association ou un membre du comité, ou toute personne désignée par l’AG.
@@ -238,12 +239,12 @@ D'autres points peuvent être ajouté par le comité, ainsi que par les membres 
 Le comité est autorisé à faire tous les actes qui se rapportent aux buts de l'association. Il a les pouvoirs les plus étendus pour la gestion des affaires courantes.
 
 ### Article 14 - Composition du comité
-Le comité élu par l'assemblée générale se compose de 3 membres ou plus, 2 au minimum, élu par l'AG. Au moins les 3 rôles suivants seront distribués à son prochain comité, excepté si cette répartition des rôles a déjà été préparée et validée en amont, et en absence d'opposition, la distribution peut être présentée à l'AG directement et mis à son PV:
+Le comité élu par l'assemblée générale se compose de 3 membres ou plus, 2 au minimum. Au moins les 3 rôles suivants seront distribués lors de sa séance de comité, excepté si cette répartition des rôles a déjà été préparée et validée en amont, et en absence d'opposition, la distribution peut être présentée à l'AG directement et mis à son PV:
 * La présidence
 * La finance (Trésorier·ère)
 * Le secrétariat (Greffe)
 
-Le comité s'organise de lui-même avec le nombre et la création des rôles qu'il estime nécessaires. Les membres peuvent cumuler et partager des rôles, par exemple 2 co-présidences au lieu d'une seule, ou encore un secrétaire-trésorier.
+Le comité s'organise de lui-même avec le nombre et la création des rôles qu'il estime nécessaires. Les membres peuvent cumuler et partager des rôles, par exemple 2 co-présidences au lieu d'une seule, ou encore un secrétaire-trésorier ou président-secrétaire.
 
 La durée du mandat est de 3 ans renouvelables et de préférence par rotation des membres et non tous en un seul bloc. Tout membre du comité peut démissionner à tout moment, et rester membre de l’association s'il le souhaite. 
 
