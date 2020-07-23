@@ -113,6 +113,7 @@ Chaque membre est agréé par le comité, et il peut participer activement aux t
 > _expliciter si les collectifs peuvent être ou pas membres_
 * engagés à soutenir les buts de l'association; 
 * signataires de la charte _SD ou membre d’une organisation signataire [(Code SD)](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md);_
+> _Reprendre une charte existante, ou se créer la sienne_.
 * à jour de la cotisation;
 * membres bienfaiteurs : cotisations minimales définies par le comité;
 * membres passifs ayant reçu procuration d’un membre actif;
