@@ -20,7 +20,7 @@ Usage:
     * [taxinfo.sv.fin.be.ch](http://www.taxinfo.sv.fin.be.ch/taxinfo/display/taxinfofr/Exon%C3%A9ration+d%E2%80%99imp%C3%B4t+pour+utilit%C3%A9+publique%2C+accomplissement+de+t%C3%A2ches+publiques+ou+activit%C3%A9s+cultuelles)
     * 
   * [CAGI](https://www.cagi.ch/fr/service-ong/modele-de-statuts.php)
-    * Controverse: article 1, _"régie par les présents statuts et subsidiairement par les articles 60 et suivants"_ donne l'impression 
+    * **Controverse**: Article 1, _"régie par les présents statuts et subsidiairement par les articles 60 et suivants"_ donne l'impression que les présents statuts priment sur la loi, ce qui ne peut pas être le cas.
   * [VitamineB, 2016-2019]
     * https://www.vitamineb.ch/uploads/media/default/1194/FT_statuts_types.1_2019.pdf
     * https://www.vitamineb.ch/uploads/media/default/395/Fiche_de_traivail_statuts_types.pdf
