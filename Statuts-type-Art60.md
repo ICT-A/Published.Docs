@@ -86,7 +86,7 @@ Cette association ***vaudoise*** dispose d'un siège à l'adresse ***SiègeAssoc
 > cf. https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-Art60.md#inscriptions
 
 ## Organisation
-### Article 4 - Ressources et moyens
+### Article 4 - Ressources et moyens, responsabilité limitée
 Les fonds de l'association sont utilisés conformément au but social et proviennent : 
 * de dons réguliers ou occasionnels, de legs, de parrainages;
 * de subventions publiques et privées;
@@ -105,7 +105,7 @@ Pour servir ses buts, elle peut prendre les mesures qu’elle juge nécessaires,
 Le patrimoine de l'association répond seul aux engagements contractés en son nom. Toute responsabilité personnelle de ses membres est exclue.
 > _Cette clause est conforme au code civil, et pourrait être omise, mais c'est mieux de l'expliciter._
 
-### Article 5 - Membres et responsabilité 
+### Article 5 - Membres 
 La qualité de membre est ouverte à toute personne physique ou morale, qui partage la même vision au sens de l’art. 2, acquise par l’inscription et le versement de la cotisation. 
 Chaque membre est agréé par le comité, et il peut participer activement aux tâches et aux actions de l'association ou de ses antennes locales. L'association est composée de :
 
