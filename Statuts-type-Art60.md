@@ -53,6 +53,7 @@ Usage:
 ## contributions
 Vous comprenez que rien n'est magique, le contenu ici provient d'un travail: voici les contributeurs (courants), et si vous en avez l'utilisation, merci de mentionner votre source et dédommager les contributeurs d'une partie du travail que vous en avez économisé:
 * 100%: [Pascal Kotté](http://pascal.kotte.net) Versements: http://iban.kotte.net
+* Pour apporter améliorations/corrections, nous rejoindre: http://call.kotte.net
 
 Fin de l'introduction, et début des statuts types:
 > en citation (ce formatage) ci-dessous exemple avec _explications_, à supprimer ou remplacer.
