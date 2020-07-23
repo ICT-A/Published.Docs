@@ -15,6 +15,7 @@ Usage:
     * https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/creation-pme/creation-entreprise/choisir-une-forme-juridique/association.html
     * https://www.kmu.admin.ch/dam/kmu/fr/dokumente/savoir-pratique/creation-entreprise/Statuten_Verein.doc.download.doc/Status-types%20d'une%20Associatiom.doc
   * [CAGI](https://www.cagi.ch/fr/service-ong/modele-de-statuts.php)
+    * Discussions ouvertes: article 1, 
   * [VitamineB, 2016-2019]
     * https://www.vitamineb.ch/uploads/media/default/1194/FT_statuts_types.1_2019.pdf
     * https://www.vitamineb.ch/uploads/media/default/395/Fiche_de_traivail_statuts_types.pdf
@@ -24,18 +25,34 @@ Usage:
   * Exemples
     * https://github.com/francejs/association/blob/master/statuts.md
     * https://github.com/acolab/statuts/blob/master/Statuts.txt
+## Mode opératoire
+* préparer des statuts (prendre ce canevas)
+* planifier une assemblée constitutive (minimum 2 personnes)
+* rédiger un PV constitutif
+  * https://github.com/ICT-A/Published.Docs/blob/master/PV-constitutive.md
+  * Y discuter et confirmer l'adoption des statuts (avec corrections)
+  * élire le comité (et président le cas échéant)
+  * fixer le montant initial des cotisations (0 CHF le cas échéant)
+* signer les statuts et le PV de l'AG constitutive
+## contributions
+Vous comprenez que rien n'est magique, le contenu ici provient d'un travail: voici les contributeurs (courants), et si vous en avez l'utilisation, merci de mentionner votre source et dédommager les contributeurs d'une partie du travail que vous en avez économisé:
+* 100%: [Pascal Kotté](http://pascal.kotte.net) Versements: http://iban.kotte.net
+
+Fin de l'introduction, et début des statuts types:
+> en citation (ce formatage) ci-dessous exemple avec explications à supprimer ou remplacer.
 * supprimer cette ligne et au-dessus (_après fork_).
 
 # Statuts de ***NomDeLAssociation***
 Association article 60 et suivants du code civil
 * https://www.admin.ch/opc/fr/print.html?id=lawid-2-2-4
-> exemple en citation avec explications à supprimer/remplacer
 
 ## Forme juridique, but et siège
 ### Article 1 - Dénomination
-SolutionsDurables Vaud (SDVD) est une association sans but lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse. Elle est politiquement neutre et confessionnellement indépendante.
-### Article 2 - Buts et valeurs
-Son but principal est XXX, pour XXX.
+***NomDeLAssociation*** est une association sans but lucratif régie par les présents statuts selon les articles 60 et suivants du Code civil suisse. Elle est politiquement neutre et confessionnellement indépendante.
+
+> SolutionsDurables Vaud (SDVD) est une association sans but lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse. Elle est politiquement neutre et confessionnellement indépendante.
+### Article 2 - Buts, raison d'être et valeurs
+Son but principal est _Objectifs_, pour _SaRaisonDEtre_.
 > promouvoir des transformations durables et responsables auprès des organisations, entreprises, professionnels et particuliers, à travers des programmes sur-mesure de sensibilisation, d’information et d’accompagnement.
 > Pour soutenir un progrès économique et social au service de l’intérêt commun, SDVD sensibilise, promeut, encourage, développe et soutient: les concepts d’économie circulaire et d’économie bleue;  les modèles d’organisation de type Opale (évolutive, autogouvernance) et inclusive; les solutions favorisant le bien-être au travail; les transitions numériques éco-responsables, inclusives, agiles et collaboratives.
 
