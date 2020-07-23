@@ -76,7 +76,7 @@ Son but principal est de _Objectifs_, pour _SaRaisonDEtre_.
 > _**Option**: Il est possible de clarifier ici une partie du "comment":_ **Exemple:** SDVD sensibilise, promeut, encourage, développe et soutient: les concepts d’économie circulaire et d’économie bleue;  les modèles d’organisation de type Opale (évolutive, autogouvernance) et inclusive; les solutions favorisant le bien-être au travail; les transitions numériques éco-responsables, inclusives, agiles et collaboratives.
 
 Elle s'appuie sur les valeurs suivantes:
-> _Transparence: les activités, finances et travaux sont accessibles publiquement. _Tolérance: à expliciter; _Liberté; à expliquer; _Bienveillance: Bientraiter le monde vivant et minéral de la planète; * _Lucidité: etc..._
+> **Exemple**: Transparence: les activités, finances et travaux sont accessibles publiquement. Tolérance: _à expliciter_; Liberté; _à expliquer_; Bienveillance: Bientraiter le monde vivant et minéral de la planète; Lucidité: _etc..._
 > **Exemple**: SDVD réalise ses buts dans le respect de la charte “SolutionsDurables” [(Charte SD)](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md) disponible sur le site web [SolutionsDurables.ch](SolutionsDurables.ch).
 
 ### Article 3 - Siège et durée
