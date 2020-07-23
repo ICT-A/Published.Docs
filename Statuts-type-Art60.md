@@ -71,7 +71,7 @@ Association article 60 et suivants du code civil
 > _Cette dernière phrase confirme que l'association n'est pas un association politique ou religieuse, car ces dernières peuvent restreindre exceptionnellement leurs membres à des conditions religieuses ou politiques. Mais elles doivent alors clairement l'annoncer dans les buts et la dénomination._
 > **Exemple**: SolutionsDurables Vaud (SDVD) est une association sans but lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse. Elle est politiquement neutre et confessionnellement indépendante.
 
-> _**Important**: Le [CAGI](https://www.cagi.ch/fr/service-ong/modele-de-statuts.php) propose la mention suivante: "est une association sans but lucratif régie par les présents statuts et subsidiairement par les articles 60 et suivants du Code civil suisse", sauf que cela prête à confusion et donne l'impression que les statuts priment sur la loi, ce qui ne peut pas être le cas. La formulation est donc malvenue.
+> _**Important**: Le [CAGI](https://www.cagi.ch/fr/service-ong/modele-de-statuts.php) propose la mention suivante: "est une association sans but lucratif régie par les présents statuts et subsidiairement par les articles 60 et suivants du Code civil suisse", sauf que cela prête à confusion et donne l'impression que les statuts priment sur la loi, ce qui ne peut pas être le cas. La formulation est donc malvenue._
 
 ### Article 2 - Buts, raison d'être et valeurs
 Son but principal est de _Objectifs_, pour _SaRaisonDEtre_.
