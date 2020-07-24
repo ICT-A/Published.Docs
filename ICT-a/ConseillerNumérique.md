@@ -16,7 +16,7 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
     * identifier et classifier les données numériques exploitées, avec leurs flux et leurs sécurisations
     * valider ou établir le catalogue des services numériques, et leurs criticités.
     * identifier les coûts et les frais, pour identifier les adéquations au marché et nécessités réelles.
-  * établir des RFI (Request For Information) simplifiés avec des questionnaires pour élargir le marché.
+  * établir des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) (Request For Information) simplifiés avec des questionnaires pour élargir le marché.
 * Veille technique
   * Rester "à jour" et "lucide" sur les dernières technologies
   * investiguer sur les évolutions métiers des clients, surveiller les opportunités et risques.
