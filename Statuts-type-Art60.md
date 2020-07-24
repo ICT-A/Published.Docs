@@ -52,8 +52,17 @@ Usage:
 * Il n'existe pas de registre fédéral, ni cantonal des associations, mais [contacte-moi](http://call.kotte.net) au sujet de la tienne, ou inscris-toi ici: http://art60.ch
 ## contributions
 Vous comprenez que rien n'est magique, le contenu ici provient d'un travail: voici les contributeurs (courants), et si vous en avez l'utilisation, merci de mentionner votre source et dédommager les contributeurs d'une partie du travail que vous en avez économisé:
-* 100%: [Pascal Kotté](http://pascal.kotte.net) Versements: http://iban.kotte.net
+* 100%: [Pascal Kotté](http://pascal.kotte.net), pour un versements: http://iban.kotte.net en mentionnant ton email et sujet de la contribution.
 * Pour apporter améliorations/corrections, nous rejoindre: http://call.kotte.net
+
+### Disclaimer
+Avec une bonne expérience des associations suisses depuis 2013, et membre du comité de lausanne-USL.ch depuis 2019, l'auteur principal dispose d'une solide expérience. Mais il n'est pas impossible que des erreurs soient présentes, et vos feedbacks et corrections sont sollicitées.
+
+Concernant la proposition de statuts ci-dessous, elle est une adaptation des formes standards rencontrées par les organisations citées en sources, mais complétée de part les expériences vécues au sein de 2 coopératives, 8 associations et 1 faitière, complétées avec 3 formations sur la gouvernance partagée et les intelligences collectives.
+* Cette formule et ces recommandations sont issues des observations de frictions, incompréhensions et ambiguités constatées
+* Elle n'est pas nécessairement adaptée en l'état à votre situation, et doit être modifiée,
+* Les enrichissements proposées sont généralement destinés à assouplir les fonctionnements, et améliorer les intelligences collectives,
+* Pour des clarifications, contacter l'auteur principal: http://pascal.kotte.net (http://call.kotte.net)
 
 Fin de l'introduction, et début des statuts types:
 > en citation (ce formatage) ci-dessous exemple avec _explications_, à supprimer ou remplacer.
