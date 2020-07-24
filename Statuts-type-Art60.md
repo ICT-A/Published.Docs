@@ -71,8 +71,8 @@ Fin de l'introduction, et début des statuts types:
 ___
 
 # Statuts de ***NomDeLAssociation***
-Association article 60 et suivants du code civil
-* https://www.admin.ch/opc/fr/print.html?id=lawid-2-2-4
+Association article 60 et suivants du code civil suisse:
+* https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html#a60
 
 ## Forme juridique, but et siège
 ### Article 1 - Dénomination
