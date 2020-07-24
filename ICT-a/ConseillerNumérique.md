@@ -52,3 +52,5 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
 * **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
  
+ # Voir aussi
+ * https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130
