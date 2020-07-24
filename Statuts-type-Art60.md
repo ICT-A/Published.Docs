@@ -49,7 +49,7 @@ Usage:
 ## Inscriptions
 * Le registre de commerce n'est nécessaire que si les activités de l'association dépasse les 100'000 CHF annuels (150k si d'utilité publique?), sans compter les cotisations. C'est essentiellement pour intégrer alors la TVA, qui est obligatoire en Suisse dès 100KF annuel. Les associations reconnues d'utilité publique, sont alors exonérées d'impôt, mais pas de TVA? (à vérifier) cf. https://www.ch.ch/fr/assujettissement-tva/
 * Aucune association n'est exempt de devoir se déclarer à sa résidence fiscale et juridique, y compris d'utilité publique. Elle doit donc demander un numéro fiscal à son canton.
-* Il n'existe pas de registre fédéral, ni cantonal des associations, mais [contacte-moi](http://call.kotte.net) au sujet de la tienne, ou inscrit-toi ici: http://art60.ch
+* Il n'existe pas de registre fédéral, ni cantonal des associations, mais [contacte-moi](http://call.kotte.net) au sujet de la tienne, ou inscris-toi ici: http://art60.ch
 ## contributions
 Vous comprenez que rien n'est magique, le contenu ici provient d'un travail: voici les contributeurs (courants), et si vous en avez l'utilisation, merci de mentionner votre source et dédommager les contributeurs d'une partie du travail que vous en avez économisé:
 * 100%: [Pascal Kotté](http://pascal.kotte.net) Versements: http://iban.kotte.net
