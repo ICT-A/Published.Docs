@@ -31,24 +31,24 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
   * Soutenir au mieux la prérennité (Agile, ITIL, Standards métiers, Open source)
   
 ## Comment ##
-* Adapté aux moyens: Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
+* **Adapté** aux moyens: Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégiess, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
   * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors du marché (en collaboration avec www.CloudReady.ch)
 * Adaptés aux métiers, aux domaines techniques et aux spécialisations
   * Compétences multiples: Un réseau d'experts est nécessaire, un seul cerveau n'est pas suffisant
-* Résilience
+* **Résilience**
   * Un seul cerveau est aussi "faillible" et tous sont mortels: ICT-a propose d'intervenir en binome, ou plus. 
   * On peut aussi collaborer en "backup", ou second regard, ou encore pour assurer une transition (interim)
-* Autonomie
+* **Autonomie**
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
   * La transmission et le partage des informations garantie la capacité de reprise par un tiers, à tout moment.
-* Indépendance et transparence
+* **Indépendance** et **transparence**
   * Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
   * Comme les experts restent limités à leurs domaines de connaissances, un partage et des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) permettent d'élargir le champ des possibles, à moindre frais.
     * La relecture par les pairs du collectif (inclus le binôme à minima, possibilité d'élargir) assurent aussi une intelligence collective.
     * Les documents d'analyses et d'évaluations sont partagées librement en Creative Common ( http://blog.ict-a.ch )
     * Exemple: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd
   * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients.
-* Déontologie
-  * Il n'est pas possible de disposer d'une signature @ICT-a.ch ou @C2N.ch sans être signataire de la charte http://kalix.ict-a.ch
+* **Déontologie**
+  * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
  
