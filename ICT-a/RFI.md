@@ -1,7 +1,7 @@
 # RFI
 ## C'est quoi?
 "Request For Information", mais on fera généralement les notres en français. 
-* Exemple: http://RFI14004.ICT-a.ch
+* Exemple: http://RFI14004.ICT-a.ch ([Description](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI%20INFRA%20RENEW.pdf))
 * Voir aussi: [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
 
 ## Cela apporte quoi?
