@@ -59,4 +59,8 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
  
  # Voir aussi
- * https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130
+ * [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
+ * [Blog QuickLearn](http://blog.quicklearn.ch) sur la formation, les apprentissages et la culture numérique, avec supports gratuits "en ligne".
+ * [Blog CloudReady](http://blog.cloudready.ch) sur le cloud computing (l'informatique dans le nuage) et sur l'anthropotechnique numérique.
+ * [Blog BotReady](http://blog.cloudready.ch) sur les Bots (robots numériques) et les Intelligences articifielles
+ 
