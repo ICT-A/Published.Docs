@@ -1,4 +1,6 @@
-# Conseiller Numérique (aussi C2N = Coopérative des Conseillers Numériques)
+# Conseiller Numérique
+_On parle aussi de C2N = Coopérative des Conseillers Numériques)_
+
 Le conseiller numérique externe fait office de responsable informatique (CTO/CIO) à temp partiel pour des petites structures, ou pour soutenir un CTO existant avec "des" second regards, ou assurer un interim, ou encore réaliser un audit et une médiation (_doutes ou litiges internes avec CTO ou externes fournisseurs informatiques_).
 
 ## Rôles ##
