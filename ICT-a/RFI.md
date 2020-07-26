@@ -1,8 +1,8 @@
 # RFI
 ## C'est quoi?
 "Request For Information", mais on fera généralement les notres en français. 
-
-Exemple: http://RFI14004.ICT-a.ch
+* Exemple: http://RFI14004.ICT-a.ch
+* Voir aussi: [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
 
 ## Cela apporte quoi?
 Pour monter un cahier des charges assez détaillé, puis solliciter 3 fournisseurs, devoir éplucher 150 pages de marketing afin de tenter de voir la réalité au milieu de belles images et textes embellis, c'est de l'ordre de 3 à 5 jours de travail, au mieux. En une seule demi-journée, notre coopérative va être capable d'adapter un de nos questionnaires électronique, avec des questions pertinentes et impertinentes, pour l'ajuster
