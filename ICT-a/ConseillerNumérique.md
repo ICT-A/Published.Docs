@@ -34,7 +34,13 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
 * **Adapté** aux moyens: Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégiess, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
   * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors du marché (en collaboration avec www.CloudReady.ch)
-* Adaptés aux métiers, aux domaines techniques et aux spécialisations
+* **Veille technique et anhropotechnique**
+  * Adaptés aux métiers, aux domaines techniques et aux spécialisations
+    * Les métiers des clients
+    * Les métiers numériques
+    * Les innovations tecnologiques
+    * La société numérique, les transformations
+    * Le contexte sociétal et juridique
   * Compétences multiples: Un réseau d'experts est nécessaire, un seul cerveau n'est pas suffisant
 * **Résilience**
   * Un seul cerveau est aussi "faillible" et tous sont mortels: ICT-a propose d'intervenir en binome, ou plus. 
