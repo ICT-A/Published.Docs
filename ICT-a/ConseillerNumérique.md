@@ -11,7 +11,7 @@ Le conseiller numérique externe (CN) fait office de :
 ## Rôles ##
 * Assurer le lien entre les entrepreneurs, les décideurs; et le monde numérique, la technologie, les fournisseurs informatiques.
   * Comprendre et expliciter les enjeux: traduire et rendre compréhensible les concepts numériques
-  * Assurer ou soutenir le rôle du CTO et/ou CIO interne (interim, temp partiel)
+  * Soutenir les rôles CxO internes, avec un regard indépendant des vendeurs
 * Comprendre les moyens et capacités de ses clients, pour adapter des solutions aux réels besoins et moyens.
   * Un audit simplifié est nécessaire pour:
     * valider l'état de la documentation des infrastructures informatiques existantes, identifier les manques
