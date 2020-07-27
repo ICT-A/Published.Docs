@@ -65,9 +65,12 @@ Une partie des CN sont aussi des formateurs certifiés, mais tous étudient la t
     * Les documents d'analyses et d'évaluations sont partagées librement en [Creative Common](https://fr.wikipedia.org/wiki/Creative_Commons)
     * Exemples: 
       * Un article de fond sur le _[digital learning](http://digital.quicklearn.ch)_
+        * Plus [l'article](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd) expliquant la démarche d'acquisition et incluant une première série des questions à poser.
       * Article de fond sur les outils de webconf: http://webrtc.quicklearn.ch
       * Du "bon" usage des réseaux sociaux: http://social.quicklearn.ch
       * Des nouvelles [e-collaborations](http://collaborer.quicklearn.ch)
+      * Des guides d'achats matériels, écrans LCD: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/ecrans-lcd-technos-et-choix-2064542fbc92
+      * Des bonnes pratiques, alias emails: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/alias-email-requis-pour-mon-domaine-353dd9945397
       * Articles de blog sur la sécurité numérique: https://medium.com/search?q=kott%C3%A9%20s%C3%A9curit%C3%A9
       * etc...
 * **Résilience**
