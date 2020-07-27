@@ -46,3 +46,6 @@ Les recommandations dispensées par ce réseau aux PME sont le reflet d’une an
 * Aussi: DPO (Data Protection Officer), DPD en français (Délégué à la Protection des Données)
 
 # Chartes
+ICT-a.ch adhère aux chartes suivantes:
+* http://ess.ict-a.ch
+* http://kalix.ict-a.ch
