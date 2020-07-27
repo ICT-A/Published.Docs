@@ -20,37 +20,40 @@ Assurer le lien entre les entrepreneurs, les décideurs; et le monde numérique,
 
 #### Sobriété
 Comprendre les moyens et capacités de ses clients, pour adapter des solutions aux réels besoins et moyens.
-* Un audit simplifié est nécessaire pour:
+* Un audit simplifié pour:
   * valider l'état de la documentation des infrastructures informatiques existantes, identifier les manques
   * identifier les capacités et la culture numérique des équipes existantes
   * identifier et classifier les données numériques exploitées, avec leurs flux et leurs sécurisations
   * valider ou établir le catalogue des services numériques, et leurs criticités.
-  * identifier les coûts et les frais, pour identifier les adéquations au marché et nécessités réelles.
+  * répertorier les coûts et les frais, pour identifier les adéquations au marché et aux nécessités.
 * Établir des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) (Request For Information) simplifiés avec des questionnaires pour élargir à plus de solutions sur le marché, et intégrer les questions pertinentes propres à la situation du client, à moindre frais.
 
 #### Défenseur
 Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vendeurs/éditeurs/intégrateurs numériques
 * Un conseiller numérique ne prend pas de commissions ou rétro-commissions sur une solution achetée par un de ses clients, pas sans l'exposer clairement.
-* Il peut servir de coopérative d'achat et acheter pour le compte de multiples clients, mais revendre au prix d'achat tout en facturant ses frais financiers et de gestion.
-* Il peut aussi prendre en charge la construction d'appels d'offres, mais avec toutes la transparence et un contrôle sur l'absence de conflits d'intérêts, via un tiers CN de préférence.
-  * Le cas échéant: L'appel d'offre doit être émis par la centrale d'achat (même si c'est pour le compte d'un seul client)
-  * Un [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) répondu par un autre membre du réseau ICT-a doit être explicité, et un double regard ICT-a est nécessaire pour vérifier l'intégrité.
-  * _La plupart des conseillers indépendants ne font pas office de centrale d'achat, mais recommandent aux solopreneurs et PME de rejoindre une coopérative existante ou d'en créer une pour leur propre métier via une association corporative. Nous fournissons aide et support pour la création de telles corporations pour soutenir une coopétition constructive au lieu d'un compétition destructive._
+* Un CN qui fait aussi office de centrale d'achat, devrait revendre au prix d'achat tout en facturant ses frais financiers et de gestion.
+  * S'il prend en charge des appels d'offres, il doit le faire avec transparence et de préférence avec un contrôle via un tiers CN.
+  * L'appel d'offre devrait être émis par et pour la centrale d'achat (_même si c'est pour le compte d'un seul de ses clients_)
+  * Un [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) répondu par un membre du réseau C2N doit être fait avec transparence.
+
+_La plupart des conseillers indépendants ne font pas office de centrale d'achat, mais recommandent aux solopreneurs et PME de rejoindre une coopérative existante ou d'en créer une pour leur propre métier via une association corporative. Nous fournissons aide et support pour la création de telles corporations pour soutenir une coopétition constructive au lieu d'un compétition destructive._
 
 #### Veille technique
 * Rester "à jour" et "lucide" sur les dernières technologies, afin d'en évaluer les risques aussi.
-* investiguer sur les évolutions métiers des clients, surveiller les opportunités et risques.
+* investiguer sur les évolutions métiers des clients, surveiller les opportunités et risques, techniques, anthropologiques et économiques.
 
-#### Proposer des stratégies et des innovations prérennes
+#### Stratège numérique
+Proposer des stratégies et des innovations prérennes
   * Simplexifier les solutions existantes.
   * Appliquer les principes ITIL (v4), les parties utiles et adaptées.
   * optimiser et assurer une adéquation aux standard généraux: Agile, Lean...
-  * Collaborer et soutenir les standrards métiers
+  * Collaborer et soutenir les standards métiers, techniques et économiques, mais aussi les bonnes pratiques.
 
 #### Accompagner les changements nécessaires
   * Avec une implication en amont des équipes opérationnelles (Lean)
   * Faciliter les apprentissages et la résilience.
   * Soutenir au mieux la prérennité (Agile, ITIL, Standards métiers, Open source)
+  * Soutenir aussi la transition écologique
   
 ## Comment ##
 #### **Adapté** aux moyens: 
