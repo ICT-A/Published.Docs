@@ -53,6 +53,9 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
 * **Autonomie**
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
   * La transmission et le partage des informations garantie la capacité de reprise par un tiers, à tout moment.
+  * Des espaces inter-collaboratifs et ouverts permettent de partager avis, documentations et supports de formations:
+    * http://
+    * Avec sa propre [charte éthique du **digital learning**](https://github.com/CloudReady-ch/QuickLearn/wiki/Digital-Learn-Ethique)
 * **Indépendance** et **transparence**
   * Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
   * Comme les experts restent limités à leurs domaines de connaissances, un partage et des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) permettent d'élargir le champ des possibles, à moindre frais.
