@@ -58,7 +58,7 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégiess, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
     * Audit simplifié en partant des flux de données: http://data.ict-a.ch
     * Documentation réduite au strict nécessaire
-  * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors du marché (en collaboration avec www.CloudReady.ch)
+  * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors (coûteux) du marché (en collaboration avec www.CloudReady.ch, OpenRomandie et UDON)
 #### **Veille technique et anhropotechnique** (_intelligence collective_)
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
