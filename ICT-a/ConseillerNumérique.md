@@ -55,9 +55,9 @@ Tous ne sont pas formateurs, mais ils étudient la transmission des savoirs, que
     * La société numérique, ses transformations
     * Le contexte sociétal et juridique
   * Compétences multiples: Un réseau d'experts est nécessaire, un seul cerveau n'est pas suffisant
-  * Comme les experts restent limités à leurs domaines de connaissances, un partage des bases documentaires, études: 
+  * Les experts restent limités à leurs domaines de connaissances, un partage des bases documentaires et des études servent à réduire ce biais: 
     * Les appels d'offres simplifiés [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) permettent d'élargir le champ des possibles, à moindre frais.
-    * La relecture par les pairs du collectif améliorent la qualité et la confiance.
+    * La relecture par les pairs du collectif améliore la qualité et la confiance.
     * Les documents d'analyses et d'évaluations sont partagées librement en [Creative Common](https://fr.wikipedia.org/wiki/Creative_Commons)
     * Exemples: 
       * Un article de fond sur le _[digital learning](http://digital.quicklearn.ch)_
