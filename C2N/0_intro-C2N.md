@@ -10,6 +10,6 @@ Pour le moment, C2N est une simple "marque" de [ICT-a](http://statuts.ict-a.ch) 
 
 ## Quand ?
 Pour le moment, on réfléchit...
-On met les bases et ensuite, on créera peut-être une association professionnelle (ou on en rejoindre une existante), pour défendre notre métier et ses valeurs.
+On met les bases et ensuite, on créera peut-être une association professionnelle (ou on rejoindra une existante), pour défendre notre métier et ses valeurs.
 
 Si tu veux participer à la réflexion: http://callme.kotte.net
