@@ -45,6 +45,8 @@ Tous ne sont pas formateurs, mais ils étudient la transmission des savoirs, que
 ## Comment ##
 * **Adapté** aux moyens: Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégiess, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
+    * Audit simplifié en partant des flux de données: http://data.ict-a.ch
+    * Documentation réduite au strict nécessaire
   * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors du marché (en collaboration avec www.CloudReady.ch)
 * **Veille technique et anhropotechnique** (_intelligence collective_)
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
