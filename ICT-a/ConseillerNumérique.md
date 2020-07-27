@@ -66,7 +66,7 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
     * Les métiers numériques
-    * Les innovations tecnologiques
+    * Les innovations technologiques
     * La sécurité et la culture numérique
     * La société numérique, ses transformations
     * Le contexte sociétal et juridique
@@ -87,19 +87,20 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
       * etc...
 #### **Résilience**
   * Un seul cerveau est aussi "faillible" et tous sont mortels: Il est nécessaire d'intervenir en binome, ou plus. 
-  * Le CN aussi collaborer en "backup", ou second regard, ou encore pour assurer une transition (interim).
+  * Le CN collabore aussi en s'assurant d'un bon "backup", qui fait aussi office de second regard.
   * Un espace collaboratif sécurisé et partagé avec les clients assurent une documentation accessible.
-#### **Autonomie** (des clients généralement rendus captifs par un marché de gouvernance spéculative)
+#### **Autonomie** 
+Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de services qui cherchent à générer des monopoles de rentes.
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
+    * Il peut contribuer mais aussi décider qui peut accéder à cette documentation, sans dépendre du bon vouloir du CN.
   * La transmission et le partage des informations _de facto_, garantissent la capacité de reprise par un tiers, à tout moment.
   * L'autonomisation des clients est facilitée via des espaces inter-collaboratifs et ouverts qui permettent de partager avis, documentations et supports de formations:
     * http://formations.quicklearn.ch
     * Avec sa propre [charte éthique du **digital learning**](http://charte.quicklearn.ch)
 #### **Indépendance** et **transparence**
-  * Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
+Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
     * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
     * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
-  * Les biais d'expertises réduites par les connaissances limitées sont réduits par la veille collaborative précitée.
 #### **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
  
