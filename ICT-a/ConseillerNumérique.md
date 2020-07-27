@@ -1,7 +1,12 @@
-# Conseiller Numérique
-_On parle aussi de C2N = Coopérative des Conseillers Numériques_
+# Conseiller Numérique (CN)
+_On parle aussi de C2N = Coopérative des Conseillers Numériques, qui représente des collectifs de conseillers numériques._
 
-Le conseiller numérique externe fait office de responsable informatique (CTO/CIO) à temp partiel pour des petites structures, ou pour soutenir un CTO existant avec "des" second regards, ou assurer un interim, ou encore réaliser un audit et une médiation (_doutes ou litiges internes avec CTO ou externes fournisseurs informatiques_).
+Le conseiller numérique externe (CN) fait office de :
+* responsable informatique (CTO/CIO) à temp partiel pour des petites structures, 
+* ou pour soutenir un CTO existant avec "des" second regards, 
+* ou encore pour assurer un interim, 
+* ou bien pour soutenir un projet de transformation/transition numérique, 
+* ou encore pour réaliser un audit et une médiation (_doutes ou litiges internes avec CTO ou externes fournisseurs informatiques_).
 
 ## Rôles ##
 * Assurer le lien entre les entrepreneurs, les décideurs; et le monde numérique, la technologie, les fournisseurs informatiques.
@@ -39,32 +44,41 @@ Le conseiller numérique externe fait office de responsable informatique (CTO/CI
 * **Adapté** aux moyens: Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégiess, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
   * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors du marché (en collaboration avec www.CloudReady.ch)
-* **Veille technique et anhropotechnique**
+* **Veille technique et anhropotechnique** (_intelligence collective_)
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
     * Les métiers numériques
     * Les innovations tecnologiques
-    * La société numérique, les transformations
+    * La sécurité et la culture numérique
+    * La société numérique, ses transformations
     * Le contexte sociétal et juridique
   * Compétences multiples: Un réseau d'experts est nécessaire, un seul cerveau n'est pas suffisant
 * **Résilience**
-  * Un seul cerveau est aussi "faillible" et tous sont mortels: ICT-a propose d'intervenir en binome, ou plus. 
-  * On peut aussi collaborer en "backup", ou second regard, ou encore pour assurer une transition (interim)
+  * Un seul cerveau est aussi "faillible" et tous sont mortels: Il est nécessaire d'intervenir en binome, ou plus. 
+  * Le CN aussi collaborer en "backup", ou second regard, ou encore pour assurer une transition (interim).
+  * Un espace collaboratif sécurisé et partagé avec les clients assurent une documentation accessible.
 * **Autonomie**
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
-  * La transmission et le partage des informations garantie la capacité de reprise par un tiers, à tout moment.
-  * Des espaces inter-collaboratifs et ouverts permettent de partager avis, documentations et supports de formations:
-    * http://
-    * Avec sa propre [charte éthique du **digital learning**](https://github.com/CloudReady-ch/QuickLearn/wiki/Digital-Learn-Ethique)
+  * La transmission et le partage des informations _de facto_, garantissent la capacité de reprise par un tiers, à tout moment.
+  * L'autonomisation des clients est facilitée via des espaces inter-collaboratifs et ouverts qui permettent de partager avis, documentations et supports de formations:
+    * http://formations.quicklearn.ch
+    * Avec sa propre [charte éthique du **digital learning**](http://charte.quicklearn.ch)
 * **Indépendance** et **transparence**
   * Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
+    * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
+    * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
   * Comme les experts restent limités à leurs domaines de connaissances, un partage et des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) permettent d'élargir le champ des possibles, à moindre frais.
     * La relecture par les pairs du collectif (inclus le binôme à minima, possibilité d'élargir) assurent aussi une intelligence collective.
-    * Les documents d'analyses et d'évaluations sont partagées librement en Creative Common ( http://blog.ict-a.ch )
-    * Exemple: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd
-  * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients.
+    * Les documents d'analyses et d'évaluations sont partagées librement en [Creative Common](https://fr.wikipedia.org/wiki/Creative_Commons)
+    * Exemples: 
+      * Un article de fond sur le _digital learning_: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd
+      * Articles de blog sur la sécurité numérique: https://medium.com/search?q=kott%C3%A9%20s%C3%A9curit%C3%A9
+      * Article de fond sur les outils de webconf: http://webrtc.quicklearn.ch
+      * Du "bon" usage des réseaux sociaux: http://social.quicklearn.ch
+      * etc...
 * **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
+  * D'autres conseillers
  
  # Voir aussi
  * [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
