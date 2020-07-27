@@ -87,7 +87,6 @@ Une partie des CN sont aussi des formateurs certifiés, mais tous étudient la t
   * Les biais d'expertises réduites par les connaissances limitées sont réduits par la veille collaborative précitée.
 * **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
-  * D'autres conseillers
  
  # Voir aussi
  * [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
