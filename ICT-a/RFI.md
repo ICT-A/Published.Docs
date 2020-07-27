@@ -1,7 +1,7 @@
 # RFI
 ## C'est quoi?
 "**Request For Information**", mais elles seront généralement rédigées en français (_ou en franglais informatique_).
-Le RFI est normalement une demande d'informations initiales, afin de pré-sélectionner les 3 à 5 candidats qui seront retenu pour un processus d'appels d'offres, du moins dans le monde privé. _Car pour les institutions publiques, il est illégal de limiter le nombre de répondants_. Mais chez ICT-a, c'est un appel d'offre normalisé et simplifié à l'extrême, tout en ampéliorant la pertinence et donc la performance, avec des questions pertinentes, sous la forme d'un QCM en ligne publié et ouvert à tous les fournisseurs (_et donc compatible avec les règles publiques_).
+Le RFI est normalement une demande d'informations initiales, afin de pré-sélectionner les 3 à 5 candidats qui seront retenu pour un processus d'appels d'offres, du moins dans le monde privé. _Car pour les institutions publiques, il est illégal de limiter le nombre de répondants_. Mais chez ICT-a, c'est un appel d'offre normalisé et simplifié à l'extrême, tout en améliorant la pertinence et donc la performance, avec des questions pertinentes, sous la forme d'un QCM en ligne publié et ouvert à tous les fournisseurs (_et donc compatible avec les règles publiques_).
 
 * Exemple: http://RFI14004.ICT-a.ch ([Description](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI%20INFRA%20RENEW.pdf))
 * Voir aussi: [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
