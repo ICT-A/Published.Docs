@@ -13,7 +13,7 @@ Un montant initial de base sur un mandat déterminé, puis un montant "libre" qu
 * le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) doit expliciter les attentes et donner les moyens aux clients d'en mesurer les résultats.
 * L'usage d'indicateur de réductions des coûts et le paiement par participation sur des montants économisés, n'est pas toujours une bonne pratique.
 
-### Facturation minimale au temps passé et complément libre (FPLH)
+#### Facturation minimale au temps passé et complément libre (FPLH)
 Un montant horaire minimal est proposé (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) entre 20 et 60 CHF/h_), le reste en participation libre.
 
 ### FTP: Facturation au temp passé
