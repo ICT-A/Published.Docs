@@ -13,12 +13,12 @@ Une partie des CN sont aussi des formateurs certifiés, et tous sont attentifs �
 * ou concernant les flux d'informations et de savoirs propres aux clients.
 
 ## Rôles ##
-### Liaison
+#### Liaison
 Assurer le lien entre les entrepreneurs, les décideurs; et le monde numérique, la technologie, les fournisseurs informatiques.
 * Comprendre et expliciter les enjeux: traduire et rendre compréhensible les concepts numériques
 * Soutenir les rôles CxO internes, avec un regard indépendant des vendeurs
 
-### Sobriété
+#### Sobriété
 Comprendre les moyens et capacités de ses clients, pour adapter des solutions aux réels besoins et moyens.
 * Un audit simplifié est nécessaire pour:
   * valider l'état de la documentation des infrastructures informatiques existantes, identifier les manques
@@ -37,28 +37,29 @@ Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vende
   * Un [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) répondu par un autre membre du réseau ICT-a doit être explicité, et un double regard ICT-a est nécessaire pour vérifier l'intégrité.
   * _La plupart des conseillers indépendants ne font pas office de centrale d'achat, mais recommandent aux solopreneurs et PME de rejoindre une coopérative existante ou d'en créer une pour leur propre métier via une association corporative. Nous fournissons aide et support pour la création de telles corporations pour soutenir une coopétition constructive au lieu d'un compétition destructive._
 
-### Veille technique
+#### Veille technique
 * Rester "à jour" et "lucide" sur les dernières technologies, afin d'en évaluer les risques aussi.
 * investiguer sur les évolutions métiers des clients, surveiller les opportunités et risques.
 
-### Proposer des stratégies et des innovations prérennes
+#### Proposer des stratégies et des innovations prérennes
   * Simplexifier les solutions existantes.
   * Appliquer les principes ITIL (v4), les parties utiles et adaptées.
   * optimiser et assurer une adéquation aux standard généraux: Agile, Lean...
   * Collaborer et soutenir les standrards métiers
 
-### Accompagner les changements nécessaires
+#### Accompagner les changements nécessaires
   * Avec une implication en amont des équipes opérationnelles (Lean)
   * Faciliter les apprentissages et la résilience.
   * Soutenir au mieux la prérennité (Agile, ITIL, Standards métiers, Open source)
   
 ## Comment ##
-* **Adapté** aux moyens: Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
+#### **Adapté** aux moyens: 
+Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégiess, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
     * Audit simplifié en partant des flux de données: http://data.ict-a.ch
     * Documentation réduite au strict nécessaire
   * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors du marché (en collaboration avec www.CloudReady.ch)
-* **Veille technique et anhropotechnique** (_intelligence collective_)
+#### **Veille technique et anhropotechnique** (_intelligence collective_)
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
     * Les métiers numériques
@@ -81,22 +82,22 @@ Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vende
       * Des bonnes pratiques, alias emails: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/alias-email-requis-pour-mon-domaine-353dd9945397
       * Articles de blog sur la sécurité numérique: https://medium.com/search?q=kott%C3%A9%20s%C3%A9curit%C3%A9
       * etc...
-* **Résilience**
+#### **Résilience**
   * Un seul cerveau est aussi "faillible" et tous sont mortels: Il est nécessaire d'intervenir en binome, ou plus. 
   * Le CN aussi collaborer en "backup", ou second regard, ou encore pour assurer une transition (interim).
   * Un espace collaboratif sécurisé et partagé avec les clients assurent une documentation accessible.
-* **Autonomie** (des clients généralement rendus captifs par un marché de gouvernance spéculative)
+#### **Autonomie** (des clients généralement rendus captifs par un marché de gouvernance spéculative)
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
   * La transmission et le partage des informations _de facto_, garantissent la capacité de reprise par un tiers, à tout moment.
   * L'autonomisation des clients est facilitée via des espaces inter-collaboratifs et ouverts qui permettent de partager avis, documentations et supports de formations:
     * http://formations.quicklearn.ch
     * Avec sa propre [charte éthique du **digital learning**](http://charte.quicklearn.ch)
-* **Indépendance** et **transparence**
+#### **Indépendance** et **transparence**
   * Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
     * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
     * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
   * Les biais d'expertises réduites par les connaissances limitées sont réduits par la veille collaborative précitée.
-* **Déontologie**
+#### **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
  
  # Voir aussi
