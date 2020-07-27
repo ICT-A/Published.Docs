@@ -26,7 +26,7 @@ Le réseau Kalix permet de construire des relations clients/fournisseurs, et int
   * Code Kalix ICT-a: Version précédente, il reste suffisant et valabe pour être membre C2N: http://kalix.ict-a.ch
 * Contrat à signer (pour le conseiller numérique): http://reseau-kalix.ict-a.ch
   * Il est aussi possible de signer une version 3 compatible issue de: http://kalix.ch/ViewerJS/#../ODT/Reseau-Kalix_v3-0.odt
-  * _Ce code n'est pas spécifique pour C2N ni ICT-a.ch, et il est possible d'être déjà signataire dans un autre réseau. Dans ce cas, il est encore plus simple de rejoindre le notre. Il suffit de nous en envoyer une copie._
+  * _Ce code n'est pas spécifique pour C2N ni ICT-a.ch, et il est possible d'être déjà signataire dans un autre réseau. Dans ce cas, il est encore plus simple de rejoindre le notre. Il suffit de nous en envoyer une copie de votre contrat déjà signé._
 
 ### Conseiller Numérique
 La définition du métier de conseiller numérique, vu par ICT-a.ch
