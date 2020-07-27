@@ -71,10 +71,11 @@ Le conseiller numérique externe (CN) fait office de :
     * La relecture par les pairs du collectif (inclus le binôme à minima, possibilité d'élargir) assurent aussi une intelligence collective.
     * Les documents d'analyses et d'évaluations sont partagées librement en [Creative Common](https://fr.wikipedia.org/wiki/Creative_Commons)
     * Exemples: 
-      * Un article de fond sur le _digital learning_: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd
-      * Articles de blog sur la sécurité numérique: https://medium.com/search?q=kott%C3%A9%20s%C3%A9curit%C3%A9
+      * Un article de fond sur le _[digital learning](http://digital.quicklearn.ch)_
       * Article de fond sur les outils de webconf: http://webrtc.quicklearn.ch
       * Du "bon" usage des réseaux sociaux: http://social.quicklearn.ch
+      * Des nouvelles [e-collaborations](http://collaborer.quicklearn.ch)
+      * Articles de blog sur la sécurité numérique: https://medium.com/search?q=kott%C3%A9%20s%C3%A9curit%C3%A9
       * etc...
 * **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
