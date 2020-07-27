@@ -45,7 +45,7 @@ Les recommandations dispensées par ce réseau aux PME sont le reflet d’une an
 * Plus récent : Chief Digital Officer (CDO)
 * Aussi: DPO (Data Protection Officer), DPD en français (Délégué à la Protection des Données)
 
-# Chartes
+# Déontologie
 ICT-a.ch adhère aux chartes suivantes:
 * http://ess.ict-a.ch
 * http://kalix.ict-a.ch
