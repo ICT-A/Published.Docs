@@ -8,9 +8,9 @@ Le conseiller numérique externe (CN) fait office de :
 * ou bien pour soutenir un projet de transformation/transition numérique, 
 * ou encore pour réaliser un audit et une médiation (_doutes ou litiges internes avec CTO ou externes fournisseurs informatiques_).
 
-Une partie des CN sont aussi des formateurs certifiés, mais tous étudient la transmission des savoirs, que ce soit sur 
-* l'usage des outils numériques, 
-* ou dans les flux numériques de l'information chez le client.
+Une partie des CN sont aussi des formateurs certifiés, mais tous étudient la transmission des savoirs, que ce soit sur:
+* l'usage et les pratiques sur les outils numériques, 
+* ou concernant les flux d'informations et de savoirs propres aux clients.
 
 ## Rôles ##
 ### Liaison
