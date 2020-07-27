@@ -28,7 +28,7 @@ Comprendre les moyens et capacités de ses clients, pour adapter des solutions a
   * identifier les coûts et les frais, pour identifier les adéquations au marché et nécessités réelles.
 * Établir des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) (Request For Information) simplifiés avec des questionnaires pour élargir à plus de solutions sur le marché, et intégrer les questions pertinentes propres à la situation du client, à moindre frais.
 
-### Défenseur
+#### Défenseur
 Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vendeurs/éditeurs/intégrateurs numériques
 * Un conseiller numérique ne prend pas de commissions ou rétro-commissions sur une solution achetée par un de ses clients, pas sans l'exposer clairement.
 * Il peut servir de coopérative d'achat et acheter pour le compte de multiples clients, mais revendre au prix d'achat tout en facturant ses frais financiers et de gestion.
