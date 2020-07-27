@@ -1,7 +1,7 @@
 # RFI
 ## C'est quoi?
-"**Request For Information**", mais elles seront généralement régiées en français (_ou en franglais informatique_).
-
+"**Request For Information**", mais elles seront généralement rédigées en français (_ou en franglais informatique_).
+Le RFI est normalement une demande d'informations initiales, afin de pré-sélectionner les 3 à 5 candidats qui seront retenu pour une processus d'appels d'offres, dans le monde privé. _Car dans les institutions publiques, tu n'as pas le droit de le faire_. Mais chez ICT-a, c'est un appel d'offre normalisé et simplifié à l'extrême, tout en ampéliorant la pertinence et donc la performance, avec des questions pertinentes, sous forme la forme d'un QCM en ligne publié et ouvert à tous les fournisseurs (_et donc compatible avec les règles publiques_).
 
 * Exemple: http://RFI14004.ICT-a.ch ([Description](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI%20INFRA%20RENEW.pdf))
 * Voir aussi: [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
@@ -18,6 +18,7 @@ On monte un cahier des charges assez détaillé, pour ne solliciter que 3 fourni
 En une seule demi-journée, notre coopérative va être capable d'adapter un de nos questionnaires électroniques, avec des questions pertinentes et impertinentes, pour l'ajuster à la situation spécifique du client. L'idéal est de le faire avec un bonôme de CN déjà présents chez le client, sinon, il faut compter deux séance de 1h30, et une relecture par le client du questionnaire: Côté ICT-a nous devons y passer au total
 
 ## Comment cela fonctionne?
+Le questionnaire est publié sous licence "open", mais pas totalement libre, [CC-BY-NC-SA](https://fr.wikipedia.org/wiki/Creative_Commons) (_usage commerciale limité à autorisation_). Ainsi, avec le temps, nous affinons des questions de plus en plus pertinentes, et impertinentes envers les fournisseurs et intégrateurs, afin d'apporter les bonnes réponses, sous forme de tableaux de données immédiatement comparables entre eux. C'est un QCM formaté, le résultat est un tableau comparatif directement exploitable, et même avec des beaux graphiques... Toute l'intelligence consiste à "poser les bonnes questions". Nos CN exprérimentés, pour certains anciens responsables IT, et la plupart, ayant déjà répondu à nombre appels d'offres classiques, pour faire acheter la solution de son "partenaire" en priorité au réel besoin de l'acheteur.
 
 ## A qui est-il émis?
 Il est à disposition de tous les acteurs numériques de la planète, et sera émis aux fournisseurs habituels, enregistrés sur nos annuaires et sur les réseaux sociaux.
