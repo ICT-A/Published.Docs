@@ -1,5 +1,6 @@
 # C2N
 Coopérative des Conseillers Numériques (CN)
+* https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md
 
 ## Pourquoi?
 Il existe de nombreuses formes de structures existantes, qui assurent partiellement, complètement, avec ou sans conflits d'intérêts, des [rôles de CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md#r%C3%B4les).
