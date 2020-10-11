@@ -89,7 +89,7 @@ L'assemblée générale ne peut prendre qu'à la majorité des deux tiers des vo
 
 #### Article 12: Votes d'AG
 Dans tous les cas, le vote a lieu à main levée. Il se fait toutefois au bulletin secret si dix délégués au moins le réclament.
-#### Article 13: Représentations
+#### Article 13: Représentations légales
 Chaque délégué ne dispose que d’une voix à l’assemblée générale.
 ### 2. COMITE
 #### Article 14: Composition comité
