@@ -1,7 +1,7 @@
 # SOCIÉTÉ NAUTIQUE OUCHY
 SECTIONS: CVL-UNOL-MYCL, CP 17, 1000 LAUSANNE 6 OUCHY - C.C.P. 10-14466
 # STATUTS 
-**SOCIETE NAUTIQUE D’OUCHY (SNO, ou "*La Nautique*")**
+**SOCIETE NAUTIQUE D’OUCHY (SNO ou "*La Nautique*")**
 * Statuts approuvés en assemblée générale du 4 juillet 1972
 ## I: Nom, Siège et buts
 ### Article premier: Dénomination
