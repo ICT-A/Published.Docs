@@ -33,12 +33,12 @@ L'assemblée générale peut décerner la qualité de membre d'honneur à toute 
 
 ## III. ORGANES
 ### Article 6: les 3 organes
-Les organes de la Fédération sont 
-* l’assemblée générale (AG)
-* le comité
-* les vérificateurs des comptes.
+Les organes de la Fédération sont :
+1 l’assemblée générale (AG)
+2 le comité
+3 les vérificateurs des comptes.
 
-### L'assemblée générale
+### 1. L'assemblée générale
 #### Article 7: L'AG
 L’assemblée générale est le pouvoir suprême de la Fédération. Elle se réunit en séance ordinaire chaque printemps sur convocation écrite adressée par le comité à tous les délégués au moins dix jours à l'avance.
 
@@ -91,7 +91,7 @@ L'assemblée générale ne peut prendre qu'à la majorité des deux tiers des vo
 Dans tous les cas, le vote a lieu à main levée. Il se fait toutefois au bulletin secret si dix délégués au moins le réclament.
 #### Article 13: Représentations
 Chaque délégué ne dispose que d’une voix à l’assemblée générale.
-### COMITE
+### 2. COMITE
 #### Article 14: Composition comité
 La Fédération est administrée par un comité de cinq à neuf membres comprenant notamment un Président, un vice-président, un caissier et un secrétaire. 
 
@@ -114,7 +114,7 @@ Toute dépense non prévue au budget et supérieure à CHF 5'000.-- doit faire l
 #### Article 21: Année calendaire
 L’année sociale commence le premier janvier et finit le trente-et-un décembre de chaque année.
 
-###	VERIFICATEURS DES COMPTES
+###	3. VERIFICATEURS DES COMPTES
 #### Article 22: élection
 Les comptes de la Fédératien sont vérifiés car une commission de trois membres au moins et deux suppléants. Cette comission doit comprendre un représentant de chacune des associations réunies eu sein de la Fédération. Elle est élue pour deux ans par l’assemblée générale. Chaque année toutefois deux de ses membres, désignés par tirage au sort, sont soumis à la réélection pour une nouvelle période de deux ans. Les membres de la commission ne peuvent être réélus plus d'une fois. Les vérificateurs des comptes présentent un rapport écrit à l’assemblée générale. Ils donnent leur préavis sur la décharge du caissier.
 ### Article 23: Représentation
