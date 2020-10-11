@@ -5,7 +5,7 @@ SECTIONS: CVL-UNOL-MYCL, CP 17, 1000 LAUSANNE 6 OUCHY - C.C.P. 10-14466
 * Statuts approuvés en assemblée générale du 4 juillet 1972
 ## I: Nom, Siège et buts
 ### Article premier: Dénomination
-Sous la dénomination "Société Nautique d’Ouchy", il est constitué, conformément aux présents statuts et aux articles 60 et suivants du Code civil suisse, une fédération groupant le Cercle de la Voile de Lausanne (CVL), l’Union Nautique Ouchy Lausanne (UNOLÎ et le Notor-Yacht Club fMYC).
+Sous la dénomination "Société Nautique d’Ouchy", il est constitué, conformément aux présents statuts et aux articles 60 et suivants du Code civil suisse, une fédération groupant le Cercle de la Voile de Lausanne (CVL), l’Union Nautique Ouchy Lausanne (UNOL) et le Notor-Yacht Club fMYC).
 Les initiales de 3a Fédération sont composées des trois lettres "SNO”.
 ### Article 2: siège
 Le siège de la Fédération est fixé à Lausanne.
