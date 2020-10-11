@@ -120,11 +120,13 @@ Les comptes de la Fédératien sont vérifiés car une commission de trois membr
 ### Article 23: Représentation légale
 La Fédération est ```valablement``` engagée par la signature collective du Président, ou du vice-président, et d'un autre membre du comité ne faisant pas partie de la même association.
 ## IV. RESPONSABILITES, RESSOURCES & DISSOLUTION
-### Article 24: sans engagements sociaux
-Les associations réunies au sein de la Fédération n’assument aucune responsabilité pour les engagements sociaux.
+### Article 24: sans ```engagements sociaux```
+Les associations réunies au sein de la Fédération n’assument aucune responsabilité pour les ```engagements sociaux```.
+
 ### Article 25: responsabilité dégagée
 La Fédération n'encourt aucune responsabilité civile du chef des installations qu'elle gère par suite d'accidents qui arriveraient à l'un de ses membres, ou par le fait d'un de ses membres à des tiers. En conséquence et notamment tout membre du CVL, de l'UNOL ou du Motor-Yacht Club faisant usage du matériel de la Société Nautique d'Ouchy ou de celui des associations qu'elle réunit, le fait a ses risques et périls tant pour lui-même que vis-à-vis des tiers.
- 
+```(Et du coup, 3 contrats d'assurances, pour chaque association?)```
+
 ### Article 26: Ressources
 Chaque association paie à la Fédération une cotisation annuelle proportionnelle au nombre de ses membres actifs. Le montant dû par membre est fixé chaque année par l'assemblée générale. Le paiement de la cotisation incombe au comité des associations. 
 
