@@ -148,5 +148,6 @@ Elle ne peut être votée qu'à la majorité des trois quarts des délégués pr
 La liquidation des avoirs de la Fédération sera opérée par la ou les personnes qui seront désignées à cet effet par l'assemblée générale.
 
 Après liquidation, le solde actif est réparti proportionnellement entre les diverses associations selon leur effectif, sauf décision contraire de l'assemblée générale.
-__
+
+___
 Les présents statuts approuvés en assemblée générale du A juillet 1972 entrent immédiatement en vigueur. 
