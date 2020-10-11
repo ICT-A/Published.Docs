@@ -35,15 +35,14 @@ L'assemblée générale peut décerner la qualité de membre d'honneur à toute 
 ### Article 6: les 3 organes
 Les organes de la Fédération sont 
 * l’assemblée générale (AG)
-* le comite 
+* le comité
 * les vérificateurs des comptes.
 
-### Article 7: L'AG
+### L'assemblée générale
+#### Article 7: L'AG
 L’assemblée générale est le pouvoir suprême de la Fédération. Elle se réunit en séance ordinaire chaque printemps sur convocation écrite adressée par le comité à tous les délégués au moins dix jours à l'avance.
 
-L'ordre du jour est établi par le comité.
-
-Il figure dans la convocation à l'assemblée.
+L'ordre du jour est établi par le comité. Il figure dans la convocation à l'assemblée.
 
 Doivent en outre être joints à la convocation :
 * un rapport du Président sur la marche générale de la Fédération
