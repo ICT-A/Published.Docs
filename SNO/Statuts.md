@@ -5,8 +5,8 @@ SECTIONS: CVL-UNOL-MYCL, CP 17, 1000 LAUSANNE 6 OUCHY - C.C.P. 10-14466
 * Statuts approuvés en assemblée générale du 4 juillet 1972
 ## I: Nom, Siège et buts
 ### Article premier: Dénomination
-Sous la dénomination "Société Nautique d’Ouchy", il est constitué, conformément aux présents statuts et aux articles 60 et suivants du Code civil suisse, une fédération groupant le Cercle de la Voile de Lausanne (CVL), l’Union Nautique Ouchy Lausanne (UNOL) et le Notor-Yacht Club fMYC).
-Les initiales de 3a Fédération sont composées des trois lettres "SNO”.
+Sous la dénomination "Société Nautique d’Ouchy", il est constitué, conformément aux présents statuts et aux articles 60 et suivants du Code civil suisse, une fédération groupant le Cercle de la Voile de Lausanne (CVL), l’Union Nautique Ouchy Lausanne (UNOL) et le Motor-Yacht Club (MYC).
+Les initiales de la Fédération sont composées des trois lettres "SNO”. ```(y ajouter LaNautique, afin de protéger le site web)```
 ### Article 2: siège
 Le siège de la Fédération est fixé à Lausanne.
 ### Article 3: Buts
@@ -20,7 +20,7 @@ A cette fin, la Fédération peut exercer toutes les activités et faire toutes 
 ## II. MEMBRES
 ### Article 4: Membres
 La Fédération a pour membres: 
-* le Cercle de la Voile de Lausanne (CVL), 
+* le Cercle de la Voile de Lausanne (CVL)
 * l’Union Nautique Ouchy-Lausanne (UNOL) 
 * et le Motor-Yacht Club (MYCL).
 
@@ -36,7 +36,7 @@ L'assemblée générale peut décerner la qualité de membre d'honneur à toute 
 Les organes de la Fédération sont :
 1 l’assemblée générale (AG)
 2 le comité
-3 les vérificateurs des comptes.
+3 les vérificateurs des comptes
 
 ### III.1. L'assemblée générale
 #### Article 7: L'AG
@@ -54,7 +54,7 @@ Le comité peut convoquer des assemblées générales extraordinaires aussi souv
 La convocation aux assemblées générales extraordinaires a lieu en les formes prévues pour l’assemblée générale ordinaire.
 
 #### Article 9: Représentations
-Les associations membres de la SNO sont représentées à l'assemblée générale de cette dernière par dix délégués chacune.
+Les associations membres de la SNO sont représentées à l'assemblée générale de cette dernière par dix délégués chacune. ```(pourquoi 10?)```
 
 Le Cercle de la Voile de Lausanne, l'Union Nautique Ouchy-Lausanne et le Motor-Yacht Club sont représentés à l'assemblée générale de la Fédération par dix délégués chacun.
 
@@ -63,9 +63,9 @@ Ces délégués sent désignés au sein de chaque association selon des règles 
 Chaque association désigne de nouveaux délégués pour remplacer ceux qui ont été élus au comité de la SNO.
 
 #### Article 10: Conditions d'AG
-L’assemblée générale ne peut délibérer et prendre des décisions qu'à condition de réunir la moitié des délégués de chaque association.
+L’assemblée générale ne peut délibérer et prendre des décisions qu'à condition de réunir la moitié des délégués de chaque association. ```(Donc min 5x3, et 10+10+4 pas décisions)```
 
-Au cas où ce quorum n'est pas atteint, une nouvelle assemblée générale est fixée par le comité. Elle ne peut avoir lieu que dans un délai de quinze jours à compter de la première assemblée. La convocation à la nouvelle assemblée doit mentionner que la première assemblée n'a pu délibérer valablement et que la seconde assemblée pourra prendre des décisions à condition de réunir la moitié des délégués, quelle que soit leur appartenance aux associations réunies au sein de la Fédération.
+Au cas où ce quorum n'est pas atteint, une nouvelle assemblée générale est fixée par le comité. Elle ne peut avoir lieu que dans un délai de quinze jours à compter de la première assemblée. La convocation à la nouvelle assemblée doit mentionner que la première assemblée n'a pu délibérer valablement et que la seconde assemblée pourra prendre des décisions à condition de réunir la moitié des délégués, quelle que soit leur appartenance aux associations réunies au sein de la Fédération. ```(? pas clair: Il faut donc toujours 15 personnes au total, mais cela peut être 8+7+0? Par contre 5+5+4 c'est pas bon, et alors, on fait quoi?)```
 
 #### Article 11: Décisions d'AG
 Les décisions de l'assemblée générale sont prises au premier tour à la majorité absolue des voix exprimées et au second tour à la majorité relative. En cas d'égalité des voix, celle du Président départage. Toutefois, lorsque le vote est relatif à une élection, un tirage au sort détermine le candidat qui l’emporte.
@@ -88,9 +88,9 @@ L'assemblée générale ne peut prendre qu'à la majorité des deux tiers des vo
 * la répartition du solde actif en cas de liquidation.
 
 #### Article 12: Votes d'AG
-Dans tous les cas, le vote a lieu à main levée. Il se fait toutefois au bulletin secret si dix délégués au moins le réclament.
+```Dans tous les cas,(suppression)```Les votes se font à main levée. Le bulletin secret est appliqué si dix délégués au moins le réclament. ```(reformulé)```
 #### Article 13: Représentations légales
-Chaque délégué ne dispose que d’une voix à l’assemblée générale.
+Chaque délégué ne dispose que d’une voix à l’assemblée générale.```(donc pas de procurations)```
 ### III.2. COMITE
 #### Article 14: Composition comité
 La Fédération est administrée par un comité de cinq à neuf membres comprenant notamment un Président, un vice-président, un caissier et un secrétaire. 
