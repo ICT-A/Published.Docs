@@ -34,9 +34,9 @@ L'assemblée générale peut décerner la qualité de membre d'honneur à toute 
 ## III. ORGANES
 ### Article 6: les 3 organes
 Les organes de la Fédération sont :
-1 l’assemblée générale (AG)
-2 le comité
-3 les vérificateurs des comptes
+1. l’assemblée générale (AG)
+2. le comité
+3. les vérificateurs des comptes
 
 ### III.1. L'assemblée générale
 #### Article 7: L'AG
