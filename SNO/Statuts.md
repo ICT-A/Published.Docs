@@ -63,7 +63,7 @@ Ces délégués sent désignés au sein de chaque association selon des règles 
 Chaque association désigne de nouveaux délégués pour remplacer ceux qui ont été élus au comité de la SNO.
 
 #### Article 10: Conditions d'AG
-L’assemblée générale ne peut délibérer et prendre des décisions qu'à condition de réunir la moitié des délégués de chaque association. ```(Donc min 5x3, et 10+10+4 pas décisions)```
+L’assemblée générale ne peut délibérer et prendre des décisions qu'à condition de réunir la moitié des délégués de chaque association. ```(Donc min 5x3, et 10+10+4 pas valable, reportée)```
 
 Au cas où ce quorum n'est pas atteint, une nouvelle assemblée générale est fixée par le comité. Elle ne peut avoir lieu que dans un délai de quinze jours à compter de la première assemblée. La convocation à la nouvelle assemblée doit mentionner que la première assemblée n'a pu délibérer valablement et que la seconde assemblée pourra prendre des décisions à condition de réunir la moitié des délégués, quelle que soit leur appartenance aux associations réunies au sein de la Fédération. ```(? pas clair: Il faut donc toujours 15 personnes au total, mais cela peut être 8+7+0? Par contre 5+5+4 c'est pas bon, et alors, on fait quoi?)```
 
