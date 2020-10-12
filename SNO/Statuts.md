@@ -88,7 +88,7 @@ L'assemblée générale ne peut prendre qu'à la majorité des deux tiers des vo
 * la répartition du solde actif en cas de liquidation.
 
 #### Article 12: Votes d'AG
-```Dans tous les cas,(suppression)```Les votes se font à main levée. Le bulletin secret est appliqué si dix délégués au moins le réclament. ```(reformulé)```
+```Dans tous les cas,(suppression)```Les votes se font à main levée. Le bulletin secret est appliqué si au moins dix délégués le réclament. ```(reformulé)```
 #### Article 13: Représentations
 Chaque délégué ne dispose que d’une voix à l’assemblée générale.```(donc pas de procurations)```
 ### III.2. COMITE
