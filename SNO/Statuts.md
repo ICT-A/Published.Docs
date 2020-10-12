@@ -89,7 +89,7 @@ L'assemblée générale ne peut prendre qu'à la majorité des deux tiers des vo
 
 #### Article 12: Votes d'AG
 ```Dans tous les cas,(suppression)```Les votes se font à main levée. Le bulletin secret est appliqué si dix délégués au moins le réclament. ```(reformulé)```
-#### Article 13: Représentations légales
+#### Article 13: Représentations
 Chaque délégué ne dispose que d’une voix à l’assemblée générale.```(donc pas de procurations)```
 ### III.2. COMITE
 #### Article 14: Composition comité
