@@ -30,7 +30,8 @@ Comprendre les moyens et capacités de ses clients, pour adapter des solutions a
 
 #### Défenseur
 Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vendeurs/éditeurs/intégrateurs numériques
-* Un conseiller numérique ne prend pas de commissions ou rétro-commissions sur une solution achetée par un de ses clients, pas sans l'exposer clairement.
+* Un conseiller numérique ne prend pas de commissions ou rétro-commissions sur une solution achetée par un de ses clients.
+  * Ou du moins, pas sans l'exposer clairement et en toutes transparences.
 * Un CN qui fait aussi office de centrale d'achat, devrait revendre au prix d'achat tout en facturant ses frais financiers et de gestion.
   * S'il prend en charge des appels d'offres, il doit le faire avec transparence et de préférence avec un contrôle via un tiers CN.
   * L'appel d'offre devrait être émis par et pour la centrale d'achat (_même si c'est pour le compte d'un seul de ses clients_)
