@@ -46,7 +46,7 @@ _La plupart des conseillers indépendants ne font pas office de centrale d'achat
 #### Stratège numérique
 Proposer des stratégies et des innovations prérennes
   * Simplexifier les solutions existantes.
-  * Appliquer les principes ITIL (v4), les parties utiles et adaptées.
+  * Appliquer des standards ITIL (v4), Hermes, ou similaires, de façon adaptée et réduite au nécessaire et réellement utile.
   * optimiser et assurer une adéquation aux standard généraux: Agile, Lean...
   * Collaborer et soutenir les standards métiers, techniques et économiques, mais aussi les bonnes pratiques.
 
