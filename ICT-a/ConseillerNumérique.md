@@ -35,7 +35,7 @@ Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vende
 * Un CN qui fait aussi office de centrale d'achat, devrait revendre au prix d'achat tout en facturant ses frais financiers et de gestion.
   * S'il prend en charge des appels d'offres, il doit le faire avec transparence et de préférence avec un contrôle via un tiers CN.
   * L'appel d'offre devrait être émis par et pour la centrale d'achat (_même si c'est pour le compte d'un seul de ses clients_)
-  * Un [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) répondu par un membre du réseau C2N doit être fait avec transparence.
+  * Un [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) répondu par un membre du réseau C2N doit être fait avec transparence (déclaré au client).
 
 _La plupart des conseillers indépendants ne font pas office de centrale d'achat, mais recommandent aux solopreneurs et PME de rejoindre une coopérative existante ou d'en créer une pour leur propre métier via une association corporative. Nous fournissons aide et support pour la création de telles corporations pour soutenir une coopétition constructive au lieu d'un compétition destructive._
 
