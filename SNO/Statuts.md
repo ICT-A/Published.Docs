@@ -103,7 +103,7 @@ Le Président de la Fédération préside le comité. Il est élu par l'assembl�
 Le Président et le vice-président de la Fédération ne peuvent appartenir à la même association. Sous cette réserve, les postes du comité sont répartis sur une base paritaire entre les différentes associations.
 #### Article 17: élection
 L'assemblée générale élit pour trois ans, sur proposition du Président, les membres du comité qui n’en font pas partie de droit.
-#### Article IB: Fonctions
+#### Article 18: Fonctions
 Le comité se réunit sur convocation du Président. Ce dernier doit convoquer le comité si deux autres de ses membres en font la demande. Le comité ne peut délibérer valablement qu'à condition de réunir plus de la moitié de ses membres. Ses décisions sont prises à la majorité absolue des voix. En cas de partage égal des voix, celle du Président est prépondérante. Les décisions du comité sont constatées par des procès-vercaux signés par le Président et le secrétaire.
 #### Article 19: Pouvoirs
 Le comité est investi des pouvoirs les plus étendus pour la gestion et l'administration de la Fédération, sans autres limitations que celles qui résultent des présents statuts ou de la loi. Il peut promulguer des règlements relatifs à l'usage des installations de la Fédération, pour autant que ceux-ci ne soient pas contraires aux lois, règlements et conventions en vigueur.
