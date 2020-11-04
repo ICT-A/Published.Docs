@@ -104,7 +104,7 @@ Le Président et le vice-président de la Fédération ne peuvent appartenir à 
 #### Article 17: élection
 L'assemblée générale élit pour trois ans, sur proposition du Président, les membres du comité qui n’en font pas partie de droit.
 #### Article 18: Fonctions
-Le comité se réunit sur convocation du Président. Ce dernier doit convoquer le comité si deux autres de ses membres en font la demande. Le comité ne peut délibérer valablement qu'à condition de réunir plus de la moitié de ses membres. Ses décisions sont prises à la majorité absolue des voix. En cas de partage égal des voix, celle du Président est prépondérante. Les décisions du comité sont constatées par des procès-vercaux signés par le Président et le secrétaire.
+Le comité se réunit sur convocation du Président. Ce dernier doit convoquer le comité si deux autres de ses membres en font la demande. Le comité ne peut délibérer valablement qu'à condition de réunir plus de la moitié de ses membres. Ses décisions sont prises à la majorité absolue des voix. En cas de partage égal des voix, celle du Président est prépondérante. Les décisions du comité sont constatées par des procès-verbaux signés par le Président et le secrétaire.
 #### Article 19: Pouvoirs
 Le comité est investi des pouvoirs les plus étendus pour la gestion et l'administration de la Fédération, sans autres limitations que celles qui résultent des présents statuts ou de la loi. Il peut promulguer des règlements relatifs à l'usage des installations de la Fédération, pour autant que ceux-ci ne soient pas contraires aux lois, règlements et conventions en vigueur.
 #### Article 20: Comptabilité
@@ -116,7 +116,7 @@ L’année sociale commence le premier janvier et finit le trente-et-un décembr
 
 ###	III.3. VERIFICATEURS DES COMPTES
 #### Article 22: élection
-Les comptes de la Fédératien sont vérifiés car une commission de trois membres au moins et deux suppléants. Cette comission doit comprendre un représentant de chacune des associations réunies eu sein de la Fédération. Elle est élue pour deux ans par l’assemblée générale. Chaque année toutefois deux de ses membres, désignés par tirage au sort, sont soumis à la réélection pour une nouvelle période de deux ans. Les membres de la commission ne peuvent être réélus plus d'une fois. Les vérificateurs des comptes présentent un rapport écrit à l’assemblée générale. Ils donnent leur préavis sur la décharge du caissier.
+Les comptes de la Fédération sont vérifiés car une commission de trois membres au moins et deux suppléants. Cette commission doit comprendre un représentant de chacune des associations réunies eu sein de la Fédération. Elle est élue pour deux ans par l’assemblée générale. Chaque année toutefois deux de ses membres, désignés par tirage au sort, sont soumis à la réélection pour une nouvelle période de deux ans. Les membres de la commission ne peuvent être réélus plus d'une fois. Les vérificateurs des comptes présentent un rapport écrit à l’assemblée générale. Ils donnent leur préavis sur la décharge du caissier.
 ## IV. RESPONSABILITES, RESSOURCES & DISSOLUTION
 ### Article 23: Représentation légale
 La Fédération est ```valablement``` engagée par la signature collective du Président, ou du vice-président, et d'un autre membre du comité ne faisant pas partie de la même association.
@@ -139,7 +139,7 @@ La SNO est ouverte à l'adhésion d’autres sociétés sportives de la région 
 
 Pour être admises au sein de le SNO, ces sociétés doivent faire acte de candidature par lettre adressée au comité de la SNO. Lesdites candidatures sont présentées par le Président à l'assemblée générale de la SNO.
 
-L'assemblée décide souverainement si la candidature est acceptée ou rejetée. Ell ene soumet l'acceptation à certaines doncitions et fixe une finance d'entrée. Elle tient compte à cet égard des investissements effectués par la SNO. Ell emodifie en outre les présents satuts pour permettre l'adhésion de l anouvelle société.
+L'assemblée décide souverainement si la candidature est acceptée ou rejetée. Elle soumet l'acceptation à certaines conditions et fixe une finance d'entrée. Elle tient compte à cet égard des investissements effectués par la SNO. Elle modifie en outre les présents satuts pour permettre l'adhésion de la nouvelle société.```reformulé```
 
 ### Article 28: DISSOLUTION
 La dissolution de la Fédération ne peut être prononcée que par une assemblée extraordinaire ayant ce seul objet à son ordre du jour.
