@@ -58,7 +58,7 @@ Les associations membres de la SNO sont représentées à l'assemblée général
 
 Le Cercle de la Voile de Lausanne, l'Union Nautique Ouchy-Lausanne et le Motor-Yacht Club sont représentés à l'assemblée générale de la Fédération par dix délégués chacun.
 
-Ces délégués sent désignés au sein de chaque association selon des règles qu'elle détermire.
+Ces délégués sent désignés au sein de chaque association selon des règles qu'elle détermine.
 
 Chaque association désigne de nouveaux délégués pour remplacer ceux qui ont été élus au comité de la SNO.
 
@@ -88,7 +88,7 @@ L'assemblée générale ne peut prendre qu'à la majorité des deux tiers des vo
 * la répartition du solde actif en cas de liquidation.
 
 #### Article 12: Votes d'AG
-```Dans tous les cas,(suppression)```Les votes se font à main levée. Le bulletin secret est appliqué si au moins dix délégués le réclament. ```(reformulé)```
+```Dans tous les cas,(suppression)```les votes se font à main levée. Le bulletin secret est appliqué si au moins dix délégués le réclament. ```(reformulé)```
 #### Article 13: Représentations
 Chaque délégué ne dispose que d’une voix à l’assemblée générale.```(donc pas de procurations)```
 ### III.2. COMITE
