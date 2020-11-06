@@ -1,11 +1,11 @@
 # SOCIÉTÉ NAUTIQUE OUCHY
-SECTIONS: CVL-UNOL-MYCL, CP 17, 1000 LAUSANNE 6 OUCHY - C.C.P. 10-14466
+Clubs fédérés : CVL-UNOL-MYCL, La Nautique, Chemin des Pêcheurs7, 1007 LAUSANNE-OUCHY 
 # STATUTS 
 **SOCIETE NAUTIQUE D’OUCHY (SNO ou "*La Nautique*")**
-* Statuts approuvés en assemblée générale du 4 juillet 1972
+* Statuts à approuver en assemblée générale
 ## I: Nom, Siège et buts
 ### Article premier: Dénomination
-Sous la dénomination "Société Nautique d’Ouchy", il est constitué, conformément aux présents statuts et aux articles 60 et suivants du Code civil suisse, une fédération groupant le Cercle de la Voile de Lausanne (CVL), l’Union Nautique Ouchy Lausanne (UNOL) et le Motor-Yacht Club (MYC).
+Sous la dénomination "Société Nautique d’Ouchy", il est constitué, conformément aux présents statuts et aux articles 60 et suivants du Code civil suisse, une fédération groupant le Club de Voile de Lausanne (CVL), l’Union Nautique Ouchy-Lausanne (UNOL) et le Motor-Yacht Club Léman (MYC).
 Les initiales de la Fédération sont composées des trois lettres "SNO”. ```(y ajouter LaNautique, afin de protéger le site web)```
 ### Article 2: siège
 Le siège de la Fédération est fixé à Lausanne.
@@ -20,9 +20,9 @@ A cette fin, la Fédération peut exercer toutes les activités et faire toutes 
 ## II. MEMBRES
 ### Article 4: Membres
 La Fédération a pour membres: 
-* le Cercle de la Voile de Lausanne (CVL)
+* le Club de Voile de Lausanne (CVL)
 * l’Union Nautique Ouchy-Lausanne (UNOL) 
-* et le Motor-Yacht Club (MYCL).
+* et le Motor-Yacht Club Léman (MYCL).
 
 Ces diverses sociétés sont des associations au sens des articles 60 et suivants du Code civil.
 
@@ -56,9 +56,9 @@ La convocation aux assemblées générales extraordinaires a lieu en les formes 
 #### Article 9: Représentations
 Les associations membres de la SNO sont représentées à l'assemblée générale de cette dernière par dix délégués chacune. ```(pourquoi 10?)```
 
-Le Cercle de la Voile de Lausanne, l'Union Nautique Ouchy-Lausanne et le Motor-Yacht Club sont représentés à l'assemblée générale de la Fédération par dix délégués chacun.
+Le Club de Voile de Lausanne, l'Union Nautique Ouchy-Lausanne et le Motor-Yacht Club Léman sont représentés à l'assemblée générale de la Fédération par dix délégués chacun.
 
-Ces délégués sent désignés au sein de chaque association selon des règles qu'elle détermine.
+Ces délégués sont désignés au sein de chaque association selon des règles qu'elle détermine.
 
 Chaque association désigne de nouveaux délégués pour remplacer ceux qui ont été élus au comité de la SNO.
 
@@ -124,7 +124,7 @@ La Fédération est ```valablement``` engagée par la signature collective du Pr
 Les associations réunies au sein de la Fédération n’assument aucune responsabilité pour les ```engagements sociaux```.
 
 ### Article 25: responsabilité dégagée
-La Fédération n'encourt aucune responsabilité civile du chef des installations qu'elle gère par suite d'accidents qui arriveraient à l'un de ses membres, ou par le fait d'un de ses membres à des tiers. En conséquence et notamment tout membre du CVL, de l'UNOL ou du Motor-Yacht Club faisant usage du matériel de la Société Nautique d'Ouchy ou de celui des associations qu'elle réunit, le fait a ses risques et périls tant pour lui-même que vis-à-vis des tiers.
+La Fédération n'encourt aucune responsabilité civile du chef des installations qu'elle gère par suite d'accidents qui arriveraient à l'un de ses membres, ou par le fait d'un de ses membres à des tiers. En conséquence et notamment tout membre du CVL, de l'UNOL ou du MYCL faisant usage du matériel de la Société Nautique d'Ouchy ou de celui des associations qu'elle réunit, le fait a ses risques et périls tant pour lui-même que vis-à-vis des tiers.
 ```(Et du coup, 3 contrats d'assurances, pour chaque association?)```
 
 ### Article 26: Ressources
