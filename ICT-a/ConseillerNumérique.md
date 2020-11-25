@@ -100,8 +100,8 @@ Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de servi
     * Avec sa propre [charte éthique du **digital learning**](http://charte.quicklearn.ch)
 #### **Indépendance** et **transparence**
 Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
-    * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
-    * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
+  * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
+  * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
 #### **Déontologie**
   * Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch
  
