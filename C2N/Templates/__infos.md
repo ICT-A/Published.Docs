@@ -3,4 +3,4 @@
 
 ## En Anglais
 ### docx format
-* Bug Report pk001: [Bug report pk001.dotx]
+* Bug Report pk001: [Bug report pk001.dotx](Bug report pk001.dotx)
