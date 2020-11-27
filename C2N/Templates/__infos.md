@@ -2,4 +2,5 @@
 ## En Français
 
 ## En Anglais
-* Bug Report pk001
+### docx format
+* Bug Report pk001: [Bug report pk001.dotx]
