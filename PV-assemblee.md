@@ -85,6 +85,7 @@ Le plus court possible, et uniquement sur les décisions préparées.
 * La lettre est jointe avec la convocation en amont (anticipation) sinon, la lire par un des vérificateur à l'AG.
 8. Vote approbation des comptes et décharge au comité et aux vérificateurs
 * Souvent en un seul vote (possible en 2 votes)
+* C'est le seul vote où les membres du comité ne votent pas (le nombre de votant est donc réduit).
 
 ### Renouvellement comité
 9. Sorties du comité (démissions en cours d'années, ou ne souhaite pas se représenter)
@@ -96,6 +97,7 @@ Le plus court possible, et uniquement sur les décisions préparées.
 
 11. Voter les membres du comité
 * Voter l'accord de réaliser un votre global pour l'ensemble
+* Voter en bloc la composition du nouveau comité
 
 ## Post-AG ##
 Festivités requises: 
