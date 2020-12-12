@@ -80,6 +80,7 @@ Le plus court possible, et uniquement sur les décisions préparées.
 * Résister à la tentation de faire le moindre vote d'approbation, par contre, faire applaudir à chaque occasion possible...
 6. Présentation des comptes
 * si possible documents remis ou projection
+* si documents remis lors convocation AG avec mention ne seront pas présentés, merci d'en prendre connaissance et préparer vos questions, on peut sauter.
 * Q&R
 7. Rapport des vérificateurs des comptes
 * La lettre est jointe avec la convocation en amont (anticipation) sinon, la lire par un des vérificateur à l'AG.
