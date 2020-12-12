@@ -68,7 +68,7 @@ Le plus court possible, et uniquement sur les décisions préparées.
   * énumération des corrections
 * remerciements aux premières corrections proposées par Z lors de la première présentation 1 mois après la dernière AG, déjà incluses.
 * Y a-t-il des remarques résiduelles malgrés le fait que ce PV a été remis il y à 11 mois et à nouveau il y a un mois en vous invitant à faire vos remarques et corrections, avant cette AG? _(cela calme les vélléités, temps gagné)_
-* Vote 1: Avertir que les absents peuvent s'abtenir au lieu de voter "oui"
+* Vote 1: Avertir que les absents peuvent s'abstenir au lieu de voter "oui"
   * Qui s'oppose à ce PV ?
   * Qui s'abstient ? (les crutateurs comptent)
   * Par déduction des abstentions et oppositions, adopté à l'unanimité, avec nos remerciements au rapporteur X (**_IMPORTANT_** le désigner et l'applaudir)
