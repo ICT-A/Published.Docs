@@ -40,14 +40,12 @@ Un [ordre du jour](https://github.com/ICT-A/Published.Docs/blob/master/CONVOC-AG
 
 ### Vérification des comptes
 Les comptes ont été vérifiés par les 2 vérificateurs, et le suppléant le cas échéant. Ils produisent un rapport, sur le modèle ci-dessous.
-#### Rapport des vérificateurs des comptes 
-Conformément au mandat qui nous a été confié par l’Assemblée générale et aux Statuts de l’Association XXX, nous avons procédé à la vérification des comptes de l’Association XXX, arrêtés au 31 décembre 2xxx. La vérification a porté sur la période du 1er janvier au 31 décembre 2xxx, conformément aux statuts de l’Association XXX.
-Nous sous sommes assurés de la concordance des soldes de comptes de banque et de chèques postaux à cette même date avec les relevés de comptes arrêtés par les Banques X et Y.
-Nous avons procédé à la vérification des dépenses enregistrées au cours de l’exercice par le pointage aléatoire avec les documents justificatifs de base, et obtenu tous les détails et explications nécessaires grâce à une excellente tenue des classeurs de facturation.
-Nous remercions <LE·LA TRESORIER·E> pour la tâche qu’elle a accomplie avec sérieux et bienveillance dans la tenue de la comptabilité de l’Association XXX.
-Nous certifions les comptes tels qu’ils sont présentés et formulons les réserves d’usage dans la mesure où les faits et documents susceptibles de modifier les résultats n’auraient pas été portés à notre connaissance.
-Nous demandons à l’Assemblée générale d’approuver les comptes de l’Association XXX pour l’année 2xxx.
-<Date de production du rapport, noms et signatures des réviseurs>
+#### Rapport des vérificateurs des comptes
+``` 
+Conformément au mandat qui nous a été confié par l’Assemblée générale et aux Statuts de l’Association XXX, nous avons procédé à la vérification des comptes de l’Association, arrêtés au 31 décembre YYYY. La vérification a porté sur la période du 1er janvier au 31 décembre YYYY, conformément aux statuts de l’Association. Nous nous sommes assurés de la concordance des soldes de comptes de banque (et caisses) à cette même date avec les relevés de comptes arrêtés par (liste des banques). Nous avons procédé à la vérification des dépenses enregistrées au cours de l’exercice par le pointage aléatoire (ou examen exhaustif de toutes les écritures) avec les documents justificatifs de base, et obtenu tous les détails et explications nécessaires grâce à une excellente (bonne, suffisante, malgrés insufisance) tenue des classeurs de facturation. Nous remercions (la personne en charge, titre, prénom et nom) pour la tâche qu’elle a accomplie avec sérieux et bienveillance dans la tenue de la comptabilité de l’Association. Nous certifions les comptes tels qu’ils sont présentés et formulons les réserves d’usage dans la mesure où les faits et documents susceptibles de modifier les résultats n’auraient pas été portés à notre connaissance.
+Nous demandons à l’Assemblée générale d’approuver les comptes de l’Association l’année YYYY.
+(Date de production du rapport, noms et signatures des réviseurs)
+```
 
 # Le jour de l'AG
 ## Préparation et acceuil
@@ -80,12 +78,7 @@ Le plus court possible, et uniquement sur les décisions préparées.
 * si possible documents remis ou projection
 * Q&R
 7. Rapport des vérificateurs des comptes
-
-```
-Conformément au mandat qui nous a été confié par l’Assemblée générale et aux Statuts de l’Association XXX, nous avons procédé à la vérification des comptes de l’Association, arrêtés au 31 décembre YYYY. La vérification a porté sur la période du 1er janvier au 31 décembre YYYY, conformément aux statuts de l’Association. Nous nous sommes assurés de la concordance des soldes de comptes de banque (et caisses) à cette même date avec les relevés de comptes arrêtés par (liste des banques). Nous avons procédé à la vérification des dépenses enregistrées au cours de l’exercice par le pointage aléatoire (ou examen exhaustif de toutes les écritures) avec les documents justificatifs de base, et obtenu tous les détails et explications nécessaires grâce à une excellente (bonne, suffisante, malgrés insufisance) tenue des classeurs de facturation. Nous remercions (la personne en charge, titre, prénom et nom) pour la tâche qu’elle a accomplie avec sérieux et bienveillance dans la tenue de la comptabilité de l’Association. Nous certifions les comptes tels qu’ils sont présentés et formulons les réserves d’usage dans la mesure où les faits et documents susceptibles de modifier les résultats n’auraient pas été portés à notre connaissance.
-Nous demandons à l’Assemblée générale d’approuver les comptes de l’Association l’année YYYY.
-```
-
+* La lettre est jointe avec la convocation en amont (anticipation) sinon, la lire par un des vérificateur à l'AG.
 8. Vote approbation des comptes et décharge au comité et aux vérificateurs
 * Souvent en un seul vote (possible en 2 votes)
 
