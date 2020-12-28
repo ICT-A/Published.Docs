@@ -101,7 +101,10 @@ Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de servi
 #### **Indépendance** et **transparence**
 Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
   * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
-  * En cas de délégation d'achats (rabais de massse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
+  * En cas de délégation d'achats (pour facilitation, rabais de masse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
+    * Le travail est par contre rémunéré soit via un forfait, ou une facturation au temps passé,
+    * Il est important de ne pas prendre de commissions en % pour éviter le conflit d'intérêts.
+    * Il est possible en revanche, de prendre un % sur les économies réalisées au bénéfice du client (mais guère recommandable).
 #### **Déontologie**
 Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch, mais aussi:
 * @brunochanel.com @brunochanel.ch
