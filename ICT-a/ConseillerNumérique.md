@@ -13,12 +13,12 @@ Une partie des CN sont aussi des formateurs certifiés, et tous sont attentifs �
 * ou concernant les flux d'informations et de savoirs propres aux clients.
 
 ## Rôles ##
-#### Liaison
+### Liaison
 Assurer le lien entre les entrepreneurs, les décideurs; et le monde numérique, la technologie, les fournisseurs informatiques.
 * Comprendre et expliciter les enjeux: traduire et rendre compréhensible les concepts numériques
 * Soutenir les rôles CxO internes, avec un regard indépendant des vendeurs
 
-#### Sobriété
+### Sobriété
 Comprendre les moyens et capacités de ses clients, pour adapter des solutions aux réels besoins et moyens.
 * Un audit simplifié pour:
   * valider l'état de la documentation des infrastructures informatiques existantes, identifier les manques
@@ -28,7 +28,7 @@ Comprendre les moyens et capacités de ses clients, pour adapter des solutions a
   * répertorier les coûts et les frais, pour identifier les adéquations au marché et aux nécessités.
 * Établir des [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) (Request For Information) simplifiés avec des questionnaires pour élargir à plus de solutions sur le marché, et intégrer les questions pertinentes propres à la situation du client, à moindre frais.
 
-#### Défenseur
+### Défenseur
 Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vendeurs/éditeurs/intégrateurs numériques
 * Un conseiller numérique ne prend pas de commissions ou rétro-commissions sur une solution achetée par un de ses clients.
   * Ou du moins, pas sans l'exposer clairement et en toutes transparences.
@@ -39,31 +39,31 @@ Défendre l'intérêt des consommateurs/acheteurs/clients et non celui des vende
 
 _La plupart des conseillers indépendants ne font pas office de centrale d'achat, mais recommandent aux solopreneurs et PME de rejoindre une coopérative existante ou d'en créer une pour leur propre métier via une association corporative. Nous fournissons aide et support pour la création de telles corporations pour soutenir une coopétition constructive au lieu d'un compétition destructive._
 
-#### Veille technique
+### Veille technique
 * Rester "à jour" et "lucide" sur les dernières technologies, afin d'en évaluer les risques aussi.
 * investiguer sur les évolutions métiers des clients, surveiller les opportunités et risques, techniques, anthropologiques et économiques.
 
-#### Stratège numérique
+### Stratège numérique
 Proposer des stratégies et des innovations prérennes
   * Simplexifier les solutions existantes.
   * Appliquer des standards ITIL (v4), Hermes, ou similaires, de façon adaptée et réduite au nécessaire et réellement utile.
   * optimiser et assurer une adéquation aux standard généraux: Agile, Lean...
   * Collaborer et soutenir les standards métiers, techniques et économiques, mais aussi les bonnes pratiques.
 
-#### Accompagner les changements nécessaires
+### Accompagner les changements nécessaires
   * Avec une implication en amont des équipes opérationnelles (Lean)
   * Faciliter les apprentissages et la résilience.
   * Soutenir au mieux la prérennité (Agile, ITIL, Standards métiers, Open source)
   * Soutenir aussi la transition écologique
   
 ## Comment ##
-#### **Adapté** aux moyens: 
+### **Adapté** aux moyens: 
 Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un expert numérique à plein temps.
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégies, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
     * Audit simplifié en partant des flux de données: http://data.ict-a.ch
     * Documentation réduite au strict nécessaire
   * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors (coûteux) du marché (en collaboration avec www.CloudReady.ch, OpenRomandie, ...)
-#### **Veille technique et anhropotechnique** (_intelligence collective_)
+### **Veille technique et anhropotechnique** (_intelligence collective_)
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
     * Les métiers numériques
@@ -86,11 +86,11 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
       * Des bonnes pratiques, alias emails: https://medium.com/conseillers-num%C3%A9riques-suisses-romands/alias-email-requis-pour-mon-domaine-353dd9945397
       * Articles de blog sur la sécurité numérique: https://medium.com/search?q=kott%C3%A9%20s%C3%A9curit%C3%A9
       * etc...
-#### **Résilience**
+### **Résilience**
   * Un seul cerveau est aussi "faillible" et tous sont mortels: Il est nécessaire d'intervenir en binome, ou plus. 
   * Le CN collabore aussi en s'assurant d'un bon "backup", qui fait aussi office de second regard.
   * Un espace collaboratif sécurisé et partagé avec les clients assurent une documentation accessible.
-#### **Autonomie** 
+### **Autonomie** 
 Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de services qui cherchent à générer des monopoles de rentes.
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
     * Il peut contribuer mais aussi décider qui peut accéder à cette documentation, sans dépendre du bon vouloir du CN.
@@ -98,14 +98,14 @@ Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de servi
   * L'autonomisation des clients est facilitée via des espaces inter-collaboratifs et ouverts qui permettent de partager avis, documentations et supports de formations:
     * http://formations.quicklearn.ch
     * Avec sa propre [charte éthique du **digital learning**](http://charte.quicklearn.ch)
-#### **Indépendance** et **transparence**
+### **Indépendance** et **transparence**
 Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
   * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
   * En cas de délégation d'achats (pour facilitation, rabais de masse: coopérative d'achat) les marges et rabais sont totalement réaffectés aux clients (transparence).
     * Le travail est par contre rémunéré soit via un forfait, ou une facturation au temps passé,
     * Il est important de ne pas prendre de commissions en % pour éviter le conflit d'intérêts.
     * Il est possible en revanche, de prendre un % sur les économies réalisées au bénéfice du client (mais guère recommandable).
-#### **Déontologie**
+### **Déontologie**
 Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch, mais aussi:
 * @brunochanel.com @brunochanel.ch
 * Se faire ajouter => http://callme.kotte.net
