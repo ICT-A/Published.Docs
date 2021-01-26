@@ -4,7 +4,7 @@ _On parle aussi de C2N = Coopérative des Conseillers Numériques, qui représen
 Le conseiller numérique externe (CN) fait office de :
 * responsable informatique (CTO/CIO) à temp partiel pour des petites structures, 
 * ou pour soutenir un CTO existant avec "des" second regards, 
-* ou encore pour assurer un interim (sauf execeptions, à temps partiel)
+* ou encore pour assurer un interim (sauf exceptions, à temps partiel)
 * ou bien pour soutenir un projet de transformation/transition numérique, 
 * ou encore pour réaliser un audit et une médiation (_doutes ou litiges internes avec CTO ou externes fournisseurs informatiques_).
 
