@@ -44,6 +44,9 @@ Usage:
   * Des frais fixes réduits, mais non nuls, sont prévus par les banques: 20 à 50F/an.
   * Pour faciliter une gestion simple et réduire les frais bancaire, avec peu d'écritures et sans cartes, le Trésorier ou président peut ouvrir un compte épargne sur son compte privé, dédié à l'association:
     * A la Raiffeisen: CloudReady.ch héberge multiples associations sans frais, avec un compte épargne dédié pour chaque, désigné par le nom de l'association. (_Nous avons aussi des comptes "projets" par exemple pour faire un crowdfunding dédié_).
+    * En complément, pour les opérations courantes, une carte de paiement gratuite Revolut peut être utilisée, 
+      * cf. http://revolut.kotte.net 
+      * CloudReady peut aussi immédiatement mettre à disposition une carte bancaire (virtuelle), avec son compte Revolu PRO: http://callme.kotte.net.
     * Une lettre signée copie l'association et la banque, plus le notaire du trésorier (ou dépositaire du compte épargne) signataire, confirme que le contenu est affecté à cette association et que le dépositaire n'est que mandaté par l'association pour héberger cet argent, sans en avoir la propriété. La lettre précise que les montants de ces comptes ne sont donc pas inclus dans la fortune fiscale du dépositaire et doivent être déclarés par l'association, à partir des relevés fournis par le dépositaire.
     * Il est judicieux d'assurer une résilience et de donner procuration à au moins 2 autres personnes dans l'association.
 ## Inscriptions
