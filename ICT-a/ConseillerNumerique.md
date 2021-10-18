@@ -75,7 +75,7 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
   * Les experts restent limités à leurs domaines de connaissances, un partage des bases documentaires et des études servent à réduire ce biais: 
     * Les appels d'offres simplifiés [RFI](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI.md) permettent d'élargir le champ des possibles, à moindre frais.
     * La relecture par les pairs du collectif améliore la qualité et la confiance.
-    * Les documents d'analyses et d'évaluations sont partagées librement en [Creative Common](https://fr.wikipedia.org/wiki/Creative_Commons)
+    * Les documents d'analyses et d'évaluations sont partagés librement en [Creative Common](https://fr.wikipedia.org/wiki/Creative_Commons)
     * Exemples: 
       * Un article de fond sur le _[digital learning](http://digital.quicklearn.ch)_
         * Plus [l'article](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/digital-learning-ou-pas-7ae7959ad2bd) expliquant la démarche d'acquisition et incluant une première série des questions à poser.
