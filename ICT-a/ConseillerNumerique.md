@@ -91,13 +91,17 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
   * Le CN collabore aussi en s'assurant d'un bon "backup", qui fait aussi office de second regard.
   * Un espace collaboratif sécurisé et partagé avec les clients assurent une documentation accessible.
 ### **Autonomie** 
-Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de services qui cherchent à générer des monopoles de rentes.
+Les clients sont généralement rendus captifs, d'un marché "Cloud" ou de services qui cherchent à générer des monopoles de rentes. Le CN doit agir à l'inverse afin de soutenir une meilleure autonomie et contrôle de leurs données, aux clients/usagers, quand cela fait du sens.
   * Il est fourni un espace collaboratif pour permettre aux clients d'accéder aux bases documentaires avec un rôle "admin" et "éditeur"
     * Il peut contribuer mais aussi décider qui peut accéder à cette documentation, sans dépendre du bon vouloir du CN.
   * La transmission et le partage des informations _de facto_, garantissent la capacité de reprise par un tiers, à tout moment.
   * L'autonomisation des clients est facilitée via des espaces inter-collaboratifs et ouverts qui permettent de partager avis, documentations et supports de formations:
     * http://formations.quicklearn.ch
     * Avec sa propre [charte éthique du **digital learning**](http://charte.quicklearn.ch)
+   * Il est recommandé aux CN de signer la déclaration https://mydata.org/declaration/french/
+     * Vaudois: Prendre contact et rejoindre le collectif http://MyDataVaud.ch
+     * Genevois: https://mydatageneva.org/?lang=fr
+     * Autres, cf. http://MyData.org 
 ### **Indépendance** et **transparence**
 Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste relativement neutre.
   * Un conseiller numérique ne peut fondamentalement pas être revendeur/intégrateur d'une solution du marché.
