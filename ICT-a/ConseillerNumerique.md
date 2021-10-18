@@ -113,6 +113,7 @@ Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste
 Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch, mais aussi:
 * @brunochanel.com @brunochanel.ch
 * Se faire ajouter => http://callme.kotte.net
+  * Envoyer les documents signés: Pascal.KOTTE@ICT-a.ch
 
  
  # Voir aussi
