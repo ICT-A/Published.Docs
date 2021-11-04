@@ -37,7 +37,7 @@ Usage:
   * https://github.com/ICT-A/Published.Docs/blob/master/PV-constitutive.md
   * Y discuter et confirmer l'adoption des statuts (avec corrections)
   * élire le comité (et président le cas échéant)
-  * fixer le montant initial des cotisations (0 CHF le cas échéant)
+  * fixer le montant initial des cotisations (1 CHF le cas échéant, il est important d'éviter zéro CHF, car sinon, cela peut être assimilé 'société simple' et le président alors non protégé par l'article 60 et sa responsabilité personnelle très engagée)
 * signer les statuts et le PV de l'AG constitutive
   * Ces 2 pièces et les copies des identités des membres autorisés du comité à gérer les finances, servent de références juridiques.
 * Ouvrir un compte en banque
