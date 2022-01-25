@@ -20,7 +20,8 @@ Un [ordre du jour](https://github.com/ICT-A/Published.Docs/blob/master/CONVOC-AG
 
 ### Convocation
 * La convocation dans les délais (vérifier les statuts), 
-  * Recommandé: les emails explicitement autorisés dans statuts (pour éviter les grincheux).
+  * Recommandé: par emailing explicitement autorisé dans statuts (pour éviter les grincheux).
+  * Appel à volontaires pour rejoindre le comité, et annonce de départs éventuels prévus.
   * Inclure à nouveau le PV de l'AG de l'année précédente, 
     * rappeler qu'il a été transmis il y a 11 mois et que donc, toutes remarques et corrections ont déjà été remises, 
     * mais si jamais, bien relire avant l'AG, car le PV ne sera pas lu durant l'assemblée... (comme cela, c'est prévenu)
@@ -39,14 +40,16 @@ Un [ordre du jour](https://github.com/ICT-A/Published.Docs/blob/master/CONVOC-AG
 
 ### Vérification des comptes
 Les comptes ont été vérifiés par les 2 vérificateurs, et le suppléant le cas échéant. Ils produisent un rapport, sur le modèle ci-dessous.
-#### Rapport des vérificateurs des comptes 
-Conformément au mandat qui nous a été confié par l’Assemblée générale et aux Statuts de l’Association XXX, nous avons procédé à la vérification des comptes de l’Association XXX, arrêtés au 31 décembre 2xxx. La vérification a porté sur la période du 1er janvier au 31 décembre 2xxx, conformément aux statuts de l’Association XXX.
-Nous sous sommes assurés de la concordance des soldes de comptes de banque et de chèques postaux à cette même date avec les relevés de comptes arrêtés par les Banques X et Y.
-Nous avons procédé à la vérification des dépenses enregistrées au cours de l’exercice par le pointage aléatoire avec les documents justificatifs de base, et obtenu tous les détails et explications nécessaires grâce à une excellente tenue des classeurs de facturation.
-Nous remercions <LE·LA TRESORIER·E> pour la tâche qu’elle a accomplie avec sérieux et bienveillance dans la tenue de la comptabilité de l’Association XXX.
+#### Rapport des vérificateurs des comptes
+``` 
+Conformément au mandat qui nous a été confié par l’Assemblée générale et aux Statuts de l’Association XXX, nous avons procédé à la vérification des comptes de l’Association, arrêtés au 31 décembre YYYY. 
+La vérification a porté sur la période du 1er janvier au 31 décembre YYYY, conformément aux statuts de l’Association. Nous nous sommes assurés de la concordance des soldes de comptes de banque (et caisses) à cette même date avec les relevés de comptes arrêtés par (liste des banques). 
+Nous avons procédé à la vérification des dépenses enregistrées au cours de l’exercice par le pointage aléatoire (ou examen exhaustif de toutes les écritures) avec les documents justificatifs de base, et obtenu tous les détails et explications nécessaires grâce à une excellente (bonne, suffisante, malgrés insufisance) tenue des classeurs de facturation. 
+Nous remercions (la personne en charge, titre, prénom et nom) pour la tâche qu’elle a accomplie avec sérieux et bienveillance dans la tenue de la comptabilité de l’Association. 
 Nous certifions les comptes tels qu’ils sont présentés et formulons les réserves d’usage dans la mesure où les faits et documents susceptibles de modifier les résultats n’auraient pas été portés à notre connaissance.
-Nous demandons à l’Assemblée générale d’approuver les comptes de l’Association XXX pour l’année 2xxx.
-<Date de production du rapport, noms et signatures des réviseurs>
+Nous demandons à l’Assemblée générale d’approuver les comptes de l’Association l’année YYYY.
+(Date de production du rapport, noms et signatures des réviseurs)
+```
 
 # Le jour de l'AG
 ## Préparation et acceuil
@@ -67,19 +70,35 @@ Le plus court possible, et uniquement sur les décisions préparées.
 * Remerciements aux dernières corrections proposées par X, Y sur la seconde copie du PV envoyé le mois passé:
   * énumération des corrections
 * remerciements aux premières corrections proposées par Z lors de la première présentation 1 mois après la dernière AG, déjà incluses.
-* Y a-t-il des remarques résiduelles malgrés le fait que ce PV a été remis il y à 11 mois et à nouveau il y a un mois en vous invitant à faire vos remarques et corrections, avant cette AG? _(cela calme les vélléités, temps gagné)_
-* Vote 1: Avertir que les absents peuvent s'abtenir au lieu de voter "oui"
+* Y a-t-il des remarques résiduelles malgrés le fait que ce PV a été remis il y a 11 mois et a nouveau il y a un mois en vous invitant à faire vos remarques et corrections, avant cette AG? _(cela calme les vélléités, temps gagné)_
+* Vote 1: Avertir que les absents peuvent s'abstenir au lieu de voter "oui"
   * Qui s'oppose à ce PV ?
   * Qui s'abstient ? (les crutateurs comptent)
   * Par déduction des abstentions et oppositions, adopté à l'unanimité, avec nos remerciements au rapporteur X (**_IMPORTANT_** le désigner et l'applaudir)
 5. Rapport(s) d'activité(s)
 * Résister à la tentation et faire un résumé très court, si possible animations, photos, films...
-* Résister à la tentation de faire le moindre vote d'approbation, par contre, faire aplaudir à chaque occasion possible.
+* Résister à la tentation de faire le moindre vote d'approbation, par contre, faire applaudir à chaque occasion possible...
 6. Présentation des comptes
 * si possible documents remis ou projection
+* si documents remis lors convocation AG avec mention ne seront pas présentés, merci d'en prendre connaissance et préparer vos questions, on peut sauter.
 * Q&R
 7. Rapport des vérificateurs des comptes
-* TK
+* La lettre est jointe avec la convocation en amont (anticipation) sinon, la lire par un des vérificateur à l'AG.
+8. Vote approbation des comptes et décharge au comité et aux vérificateurs
+* Souvent en un seul vote (possible en 2 votes)
+* C'est le seul vote où les membres du comité ne votent pas (le nombre de votant est donc réduit).
+
+### Renouvellement comité
+9. Sorties du comité (démissions en cours d'années, ou ne souhaite pas se représenter)
+
+10. Candidats annoncés au comité (sur invitation à le faire en amont de l'AG, lors remise PV 1 mois après Ag précédente, et à la convocation) avec renouvellement existants
+* Proposer à l'AG si des personnes souhaitent postuler
+* Proposer aux (nouveaux) postulants de se présenter à l'AG
+* Demander si des personnes ont des commentaires à faire au sujet de ces postulations (oppositions maintenant, ou se taire à jamais)
+
+11. Voter les membres du comité
+* Voter l'accord de réaliser un votre global pour l'ensemble
+* Voter en bloc la composition du nouveau comité
 
 ## Post-AG ##
 Festivités requises: 
