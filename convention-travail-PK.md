@@ -3,7 +3,7 @@
 ## Entre les soussignées
 * Organisation X, dont le siège social est situé…, représentée par (prénom, nom) en sa qualité de (fonction), ZEFIX, D’une part,
 Et
-* Pascal Kotté, indépendant sous portage salarial via la société XXX, [ZEFIX](https://adm.appls.fr.ch/hrcmatic/hrcintapp/externalCompanyReport.action?companyOfrcId13=CH-217-3543724-6&ofrcLanguage=2), D’autre part,
+* Pascal Kotté, indépendant, [uid=CHE-265.105.728](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-265.105.728)
 
 ## Il a été convenu et arrêté ce qui suit.
 ### Article 1 - Contexte

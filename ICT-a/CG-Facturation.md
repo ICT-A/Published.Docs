@@ -4,26 +4,34 @@
 #### Facturation totalement libre (FPLT)
 La participation **_libre et consciente_**, consiste à laisser le client décider totalement le montant qu'il souhaite verser pour la prestation réalisée. Le ou les prestataires fournissent les éléments d'information nécessaires pour permettre au(x) client(s) de déterminer tout le travail réalisé, et les préparations et connaissances requises en amont, les activités annexes (démarches commerciales et marketing, gestion et organisation, comptabilisation et facturation, documentations et communications).
 * https://medium.com/cloudready-ch/participation-libre-et-consciente-e3a321867c7b
-* Une estimation des charges prévisibles est anticipé par le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) qui valide l'adéquation aussi pour ses propres prestations.
-
-_Certains prestaires annoncent "satisfait ou remboursé", nous concernant, c'est "satisfait ou non payé"._
 
 #### Facturation forfait de base et participation libre (FPLB)
+* Typiquement tu loues une salles et commande un repas, paye un déplacement pour toi, le tout sont les frais fixent à couvrir.
+  * Option: En mode dynamique: Total/nombre participants => les frais réduisent si tu fais connaître l'atelier/activité.
+  * Attention de mettre un plafond explicite.
 Un montant initial de base sur un mandat déterminé, puis un montant "libre" qui peut être basé sur une appréciation du client, ou bien sur une participation sur des indicateurs prédéfinis.
 * le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) doit expliciter les attentes et donner les moyens aux clients d'en mesurer les résultats.
 * L'usage d'indicateur de réductions des coûts et le paiement par participation sur des montants économisés, n'est pas toujours une bonne pratique.
 
-#### Facturation minimale au temps passé et complément libre (FPLH)
-Un montant horaire minimal est proposé (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) entre 20 et 60 CHF/h_), le reste en participation libre.
+Avantage: sur un atelier/activité, tu auras moins de défections, et moins de surprises, car un montant initial est versé à la réservation. Cela doit couvrir au moins les frais.
+
+### Facturation minimale au temps passé et complément libre (FPLH)
+* https://medium.com/cloudready-ch/participation-libre-et-consciente-e3a321867c7b
+  * on y retrouve la mention de 40 CHF/h minimum...
+* Un montant horaire minimal est proposé (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) entre 20 et 60 CHF/h_), le reste en participation libre.
 
 ### FTP: Facturation au temp passé
 Une convention est établie avec un taux horaire (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) et le mandat entre 90 et 160 CHF/h_)
 
 ### FSD: Facturation sur Devis
+Un mandat est préparé avec un programme/plan établi.
+* Une estimation des charges prévisibles est anticipé par le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) qui valide l'adéquation aussi pour ses propres prestations.
 Un mandat est prédéfini, et il est convenu avant de commencer.
 * Exemple:
   * Un RFI standard, c'est 600 CHF.
   * Un audit "data" simplifié, c'est 1200 CHF.
+  
+_Certains prestaires annoncent "satisfait ou remboursé", nous concernant, c'est "satisfait ou non payé"._
 
 ### FSP: Facturations Spécifiques
 Un conseiller numérique peut établir avec ses clients, de nouveaux modes de facturations:
