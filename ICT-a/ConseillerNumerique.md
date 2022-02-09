@@ -109,6 +109,13 @@ Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste
     * Le travail est par contre rémunéré soit via un forfait, ou une facturation au temps passé,
     * Il est important de ne pas prendre de commissions en % pour éviter le conflit d'intérêts.
     * Il est possible en revanche, de prendre un % sur les économies réalisées au bénéfice du client (mais guère recommandable).
+### **Respect des affaires**
+Un conseiller numérique reconnait la valeur d'une mise en relation "business". Les apporteurs d'affaires ont droit sur l'ensemble du chiffre réalisé avec un client apporté, à:
+* 10% la première année (durant 12 mois, à la date de la première facture)
+* 5% la seconde année (durant les 12 mois suivant)
+* Il est possible de modifier ces conditions, par exemple dans une activité en sous-traitance, mais par défaut, c'est un minimum normalisé.
+* Cette commission est portée dans la comptabilité et à la connaissance du client, en toute transparence. Si l'apporteur ne peut pas percevoir sa commission, de part ses autres engagements, cette commission est mise au crédit de la coopérative des conseillers, et l'apporteur enregistré comme donateur.
+* Si un client est déjà connu du CN, mais n'a pas été facturé sur les 2 dernières années, est à nouveau apporté par un tiers, le CN ne reniera pas son devoir de 10%+5%, ou 5% sur une seule année si déjà facturé moins de 24 mois avant, mais plus de 12 mois. Moins de 12 mois, aucune commission n'est exigible, mais à bien plaire, nous recommandons de laisser 5% sur l'affaire rapportée.
 ### **Déontologie**
 Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch, mais aussi:
 * @brunochanel.com @brunochanel.ch
