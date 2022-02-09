@@ -62,7 +62,7 @@ Nombre d'associations ou de PME ou indépendants, ne peuvent disposer d'un exper
   * Minimalisation: Nos experts mettent en oeuvre des solutions et stratégies, documentations et délégations, afin de réduire la nécessité de leur présence/interventions.
     * Audit simplifié en partant des flux de données: http://data.ict-a.ch
     * Documentation réduite au strict nécessaire
-  * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors (coûteux) du marché (en collaboration avec www.CloudReady.ch, OpenRomandie, ...)
+  * Exploitation des solutions Cloud et libres: ICT-a ne se limite pas aux seuls ténors (coûteux) du marché (en collaboration avec www.CloudReady.ch, www.OpenRomandie.ch, ...)
 ### **Veille technique et anhropotechnique** (_intelligence collective_)
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
@@ -113,7 +113,7 @@ Sans être affilié et assujetti à un vendeur, ou un fabriquant, l'expert reste
 Les experts avec une signature @ICT-a.ch ou @C2N.ch sont tous signataires de la charte http://kalix.ict-a.ch, mais aussi:
 * @brunochanel.com @brunochanel.ch
 * Se faire ajouter => http://callme.kotte.net
-  * Envoyer les documents signés: Pascal.KOTTE@ICT-a.ch
+  * Envoyer [les documents](http://reseau-kalix.ict-a.ch/) signés: Pascal.KOTTE@ICT-a.ch
 
  
  # Voir aussi
