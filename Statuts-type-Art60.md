@@ -72,6 +72,8 @@ Fin de l'introduction, et début des statuts types:
 > en citation (ce formatage) ci-dessous exemple avec _explications_, à supprimer ou remplacer.
 * _En italique_ des éléments à adapter selon le contexte et l'association
 * supprimer cette ligne et au-dessus (_après fork_).
+
+NB: Il est possible de simplifier ces statuts, ceci est la version "longue"pour clarifications, voici une [version courte](https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-simple.md).
 ___
 
 # Statuts de ***NomDeLAssociation***
