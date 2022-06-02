@@ -8,6 +8,7 @@ Pour les fichiers sur ICT-a, c'est ici https://github.com/ICT-A/Published.Docs/b
 * exemple Association
   * https://github.com/SolutionsDurables/DocumentsSD/blob/master/statuts-SDVD.md
 * exemple faîtière
+  * [Convention type (collaboration inter-organisations)](https://github.com/SolutionsDurables/Published.Docs/blob/master/conventions.md)
   * TK...
 
 # La reconnaissance d'utilité publique
@@ -29,8 +30,6 @@ Exemples de charte qui peut être associée dans les statuts, ou un règlement i
   * [Convocation à une AG](https://github.com/SolutionsDurables/Published.Docs/blob/master/CONVOC-AG.md)
   * [PV AG](https://github.com/SolutionsDurables/Published.Docs/blob/master/PV-assemblee.md)
  
-* [Convention type (collaboration inter-organisations)](https://github.com/SolutionsDurables/Published.Docs/blob/master/conventions.md)
-
 # Dissolution, fusion
 https://www.vitamineb.ch/themes/aspect-juridique/dissolution-fusion
 
