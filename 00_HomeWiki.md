@@ -23,7 +23,7 @@ _(en construction)_
 * Clubdesk
 
 ## Collaboration
-[Collaborer association]
+[Collaborer association](http://collaborer.quicklearn.ch)
 * Framavox (Loomio)
 * Microsoft 365
 * G suite
