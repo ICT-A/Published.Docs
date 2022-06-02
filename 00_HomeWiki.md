@@ -32,7 +32,9 @@ Exemples de charte qui peut être associée dans les statuts, ou un règlement i
   * [PV AG](https://github.com/SolutionsDurables/Published.Docs/blob/master/PV-assemblee.md)
  
 # Dissolution, fusion
-https://www.vitamineb.ch/themes/aspect-juridique/dissolution-fusion
+* https://www.vitamineb.ch/themes/aspect-juridique/dissolution-fusion
+* https://www.ius.uzh.ch/dam/jcr:f8272f56-bf20-42cf-bc4b-677d708b783c/Fusion_et_Scission.pdf
+* https://www.prometerre.ch/s3/site/1542728503_18dtr05pmarchesuivrefusionderseauxcologiques.pdf
 
 # Des solutions logicielles expérimentées pour les associations
 _(en construction)_
