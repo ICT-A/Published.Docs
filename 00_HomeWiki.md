@@ -7,6 +7,7 @@ Pour les fichiers sur ICT-a, c'est ici https://github.com/ICT-A/Published.Docs/b
 * [Status type](https://github.com/SolutionsDurables/Published.Docs/blob/master/Statuts-type-Art60.md)
 * exemple Association
   * https://github.com/SolutionsDurables/DocumentsSD/blob/master/statuts-SDVD.md
+  * http://www.association-ado.ch/fr/association-ado-a-propos-s-engager/statuts
 * exemple faîtière
   * [Convention type (collaboration inter-organisations)](https://github.com/SolutionsDurables/Published.Docs/blob/master/conventions.md)
   * TK...
