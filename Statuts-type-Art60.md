@@ -68,9 +68,9 @@ Concernant la proposition de statuts ci-dessous, elle est une adaptation des for
 * Les enrichissements proposées sont généralement destinés à assouplir les fonctionnements, et améliorer les intelligences collectives,
 * Pour des clarifications, contacter l'auteur principal: http://pascal.kotte.net (http://call.kotte.net)
 
-> _**Indications**:
->   * Il est possible de simplifier ces statuts, ceci est la version "longue"pour clarifications, voici une [version courte](https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-simple.md).
->   * Les numéros des articles ci-dessous ne sont pas imposés par un modèle juridique, c'est juste une proposition. Vous avez le droit de regrouper, de dégrouper, ou de réordonner ces articles à votre convenance. Si votre restructuration présente un avantage qui vous semble pertinent, merci de repartager votre travail avec nos collectifs, via email Pascal.KOTTE@CloudReady.ch_
+### Indications:
+* Il est possible de simplifier ces statuts, ceci est la version "longue"pour clarifications, voici une [version courte](https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-simple.md).
+* Les numéros des articles ci-dessous ne sont pas imposés par un modèle juridique, c'est juste une proposition. Vous avez le droit de regrouper, de dégrouper, ou de réordonner ces articles à votre convenance. Si votre restructuration présente un avantage qui vous semble pertinent, merci de repartager votre travail avec nos collectifs, via email [Pascal.KOTTE@CloudReady.ch](mailto:Pascal.KOTTE@CloudReady.ch)
 
 Fin de l'introduction, et début des statuts types:
 > en citation (ce formatage) ci-dessous exemple avec _explications_, à supprimer ou remplacer.
