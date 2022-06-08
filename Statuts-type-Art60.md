@@ -68,12 +68,14 @@ Concernant la proposition de statuts ci-dessous, elle est une adaptation des for
 * Les enrichissements proposées sont généralement destinés à assouplir les fonctionnements, et améliorer les intelligences collectives,
 * Pour des clarifications, contacter l'auteur principal: http://pascal.kotte.net (http://call.kotte.net)
 
+> _**Indications**:
+>   * Il est possible de simplifier ces statuts, ceci est la version "longue"pour clarifications, voici une [version courte](https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-simple.md).
+>   * Les numéros des articles ci-dessous ne sont pas imposés par un modèle juridique, c'est juste une proposition. Vous avez le droit de regrouper, de dégrouper, ou de réordonner ces articles à votre convenance. Si votre restructuration présente un avantage qui vous semble pertinent, merci de repartager votre travail avec nos collectifs, via email Pascal.KOTTE@CloudReady.ch_
+
 Fin de l'introduction, et début des statuts types:
 > en citation (ce formatage) ci-dessous exemple avec _explications_, à supprimer ou remplacer.
 * _En italique_ des éléments à adapter selon le contexte et l'association
 * supprimer cette ligne et au-dessus (_après fork_).
-
-NB: Il est possible de simplifier ces statuts, ceci est la version "longue"pour clarifications, voici une [version courte](https://github.com/ICT-A/Published.Docs/blob/master/Statuts-type-simple.md).
 ___
 
 # Statuts de ***NomDeLAssociation***
@@ -87,7 +89,7 @@ Association article 60 et suivants du code civil suisse:
 > **Exemple**: SolutionsDurables Vaud (SDVD) est une association sans but lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse. Elle est politiquement neutre et confessionnellement indépendante.
 
 > _**Important**: Le [CAGI](https://www.cagi.ch/fr/service-ong/modele-de-statuts.php) propose la mention suivante: "est une association sans but lucratif régie par les présents statuts et subsidiairement par les articles 60 et suivants du Code civil suisse", sauf que cela prête à confusion et donne l'impression que les statuts priment sur la loi, ce qui ne peut pas être le cas. Cette formulation est donc très malvenue. Le CAGI en a été informé, mais a considéré que comme ces statuts ont  revus par des juristes, cela ne posait pas de problème. Si vous êtes "juriste", merci de me transmettre votre avis à ce sujet: Pascal.KOTTE@CloudReady.ch http://call.kotte.net_
-
+ 
 ### Article 2 - Buts, raison d'être et valeurs
 Son but principal est de _Objectifs_, pour _SaRaisonDEtre_.
 > **Exemple**: Promouvoir des transformations durables et responsables auprès des organisations, entreprises, professionnels et particuliers, **pour** soutenir un progrès économique et social au service de l’intérêt commun. 
