@@ -99,7 +99,7 @@ Elle s'appuie sur les valeurs suivantes:
 
 ### Article 3 - Siège et durée
 Cette association ***vaudoise*** dispose d'un siège à l'adresse ***SiègeAssociation***. Sa durée est indéterminée.
-> _Pour une association avec un objectif associé à sa dissolution, cette condition peut être temporelle: ex. "Organiser un évènement unique", ou réalisationnelle: ex. "réduire la production de CO2 de la Suisse à zéro"._
+> _Pour une association avec un objectif réduit dans la durée, cette condition peut être temporelle: ex. "Organiser un évènement unique", ou réalisationnelle: ex. "réduire la production de CO2 de la Suisse à zéro". On peut donc mentionner des conditions de dissolution, qui pourront toujours être révisées._
 
 > **Exemple:** “SolutionsDurables, CP 202, CH-1009 Pully” (_cf. http://CP202.ch si besoin d'une case postale vaudoise, et économiser 240F/an_), ou encore _à l'adresse de sa présidence._
 
