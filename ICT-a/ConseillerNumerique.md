@@ -123,7 +123,7 @@ Les signataires de cette charte sont nécessairement aussi tous signataires de l
 
 # Signataires
 ## Simples http://charte.C2N.ch uniquement
-Les personnes ou organisations ci-dessous sont tous signataires de cette charte en plus de la charte http://kalix.ict-a.ch:
+Les personnes ou organisations ci-dessous sont toutes signataires de cette charte en plus de la charte http://kalix.ict-a.ch:
 * experts indépendants avec une signature email @ICT-a.ch ou @C2N.ch
 * @brunochanel.com @brunochanel.ch
 * Se faire ajouter => http://callme.kotte.net
