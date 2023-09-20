@@ -117,13 +117,23 @@ Un conseiller numérique reconnait la valeur d'une mise en relation "business". 
 * Cette commission est portée dans la comptabilité et à la connaissance du client, en toute transparence. Si l'apporteur ne peut pas percevoir sa commission, de part ses autres engagements, cette commission est mise au crédit de la coopérative des conseillers, et l'apporteur enregistré comme donateur.
 * Si un client est déjà connu du CN, mais n'a pas été facturé sur les 2 dernières années, est à nouveau apporté par un tiers, le CN ne reniera pas son devoir de 10%+5%, ou 5% sur une seule année si déjà facturé moins de 24 mois avant, mais plus de 12 mois. Moins de 12 mois, aucune commission n'est exigible, mais à bien plaire, nous recommandons de laisser 5% sur l'affaire rapportée.
 ### **Déontologie**
-Les personnes ou organisations ci-dessous sont tous signataires de cette charte et de la charte http://kalix.ict-a.ch, mais aussi:
+Les signataires de cette charte sont nécessairement aussi tous signataires de la charte http://kalix.ict-a.ch (cf. [kalix.ch](https://kalix.ch/)) et accessoirement des codes déontologiques suivants: 
+* La déclatation MyData d ebien-traitance des données personnelles: [http://charte.mydatavaud.ch](http://charte.mydatavaud.ch)
+* La charte des formateurs éthiques: http://charte.quicklearn.ch 
+
+# Signataires
+## Simples http://charte.C2N.ch uniquement
+Les personnes ou organisations ci-dessous sont tous signataires de cette charte en plus de la charte http://kalix.ict-a.ch:
 * experts indépendants avec une signature email @ICT-a.ch ou @C2N.ch
 * @brunochanel.com @brunochanel.ch
-* @beenet.ch
 * Se faire ajouter => http://callme.kotte.net
   * Envoyer [les documents](http://reseau-kalix.ict-a.ch/) signés: Pascal.KOTTE@ICT-a.ch
-
+## Doubles http://charte.C2N.ch + http://charte.MyDataVaud.ch
+Pour se faire ajouter ici, me transmettre le numéro # d'enregistrement MyData.org ou simplement date d'inscription, avec identifiant utilisé. Pascal.KOTTE@ICT-a.ch
+* @beenet.ch
+## Triples http://charte.C2N.ch + http://charte.MyDataVaud.ch + http://charte.QuickLearn.ch
+Pour se faire enregistrer ici, me transmettre documents et URL à Pascal.KOTTE@ICT-a.ch 
+* Pascal.KOTTE@CloudReady.ch (Pascal.KOTTE@ICT-a.ch)
  
  # Voir aussi
  * [Blog ICT-a](https://blog.ict-a.ch) sur les techniques numériques, sécurité, systèmes, trucs et astuces, bon à savoir...
