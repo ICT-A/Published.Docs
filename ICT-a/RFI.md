@@ -1,12 +1,12 @@
 # RFI
-## C'est quoi?
+## C'est quoi ?
 "**Request For Information**", mais elles seront généralement rédigées en français (_ou en franglais informatique_).
 Le RFI est normalement une demande d'informations initiales, afin de présélectionner les 3 à 5 candidats qui seront retenus pour un processus d'appels d'offres, du moins dans le monde privé. _Car pour les institutions publiques, il est illégal de limiter le nombre de répondants_. Mais chez ICT-a, c'est un appel d'offre normalisé et simplifié à l'extrême, tout en améliorant la pertinence, l'ouverture et la performance (moindres frais), avec des questions (im)pertinentes, sous la forme d'un QCM en ligne publié et ouvert à tous les fournisseurs (_et donc compatible avec les règles publiques_).
 
 * Exemple: http://RFI14004.ICT-a.ch ([Description](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/RFI%20INFRA%20RENEW.pdf))
 * Voir aussi: [Blog ICT-a](https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-ict-a-1bfd562cd130)
 
-## Cela apporte quoi? C'est quoi le problème avec l'approche "classique"?
+## Cela apporte quoi? C'est quoi le problème avec l'approche "classique" ?
 ### Classiquement, un RFP: Request for Proposal, ou appel d'offres
 On monte un cahier des charges assez détaillé, pour ne solliciter que 3 fournisseurs. Puis il va falloir éplucher 150 pages de marketing afin de tenter de voir la réalité au milieu de belles images et textes embellis, c'est de l'ordre de 3 à 5 jours de travail, au mieux...
 * Il n'y a aucune exploration réelle du potentiel du marché et des nouvelles solutions.
@@ -17,10 +17,10 @@ On monte un cahier des charges assez détaillé, pour ne solliciter que 3 fourni
 ### Le RFI numérique, QCM en ligne
 En une seule demi-journée (avec le client), notre coopérative va être capable d'adapter un de nos questionnaires électroniques, avec des questions pertinentes et impertinentes, pour l'ajuster à la situation spécifique du client. L'idéal est de le faire avec un binôme de [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) déjà présents chez le client, sinon, il faut compter deux séance de 1h30, et une relecture par le client du questionnaire: Côté ICT-a nous devons y passer au total moins de 1 jour, et nous espérons "industrialiser" ce processus pour le réduire à moins de 4h.
 
-## Comment cela fonctionne?
+## Comment cela fonctionne-t-il ?
 Le questionnaire est publié sous licence "open", mais pas totalement libre, [CC-BY-NC-SA](https://fr.wikipedia.org/wiki/Creative_Commons) (_usage commerciale limité à autorisation_). Ainsi, avec le temps, nous affinons des questions de plus en plus pertinentes, et impertinentes envers les fournisseurs et intégrateurs, afin d'apporter les bonnes réponses, sous forme de tableaux de données immédiatement comparables entre eux. C'est un QCM formaté, le résultat est un tableau comparatif directement exploitable, et même avec des beaux graphiques... Toute l'intelligence consiste à "poser les bonnes questions". Nos [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) expérimentés, pour certains anciens responsables IT, et la plupart, ayant déjà répondu à nombre appels d'offres classiques, pour faire acheter la solution de son "partenaire" en priorité au réel besoin de l'acheteur.
 
-## A qui est-il émis?
+## A qui est-il émis ?
 Il est à disposition de tous les acteurs numériques de la planète, et sera émis aux fournisseurs habituels, enregistrés sur nos annuaires et sur les réseaux sociaux.
 L'idéal est d'associer ce RFI à une publication d'étude en collaboration avec d'autres organisations (comme CloudReady.ch). Certains RFI génériques peuvent rester "ouverts" et font l'objet d'une publication d'étude et aide les [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) à faire un point de situation.
 * Nos forums privés thématiques, "Tables rondes" http://tr.ict.a.ch permettent aux informaticiens et [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) de partager avis et articles sur multiples thématiques (plus de 70 groupes thématiques depuis 2013, avec une communauté de plus de 80 veilleurs du numérique). Les clients y sont bienvenus aussi, mais rarement présents.
