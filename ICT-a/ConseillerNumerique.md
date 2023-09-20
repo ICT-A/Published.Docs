@@ -1,6 +1,8 @@
 # Conseiller Numérique (CN)
 _On parle aussi de [C2N](http://c2n.ch) = Coopérative des Conseillers Numériques, qui représente des collectifs de conseillers numériques._
 
+Cette définition des rôles d'un **CN** fait office de charte C2N: http://charte.c2n.ch, à noter qu'elle est nécessairement doublée par la signature de la charte http://kalix.ch.
+
 Le conseiller numérique externe (CN) fait office de :
 * responsable informatique (CTO/CIO) à temp partiel pour des petites structures, 
 * ou pour soutenir un CTO existant avec "des" second regards, 
