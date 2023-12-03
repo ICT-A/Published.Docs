@@ -149,7 +149,7 @@ Chaque membre est agréé par le comité, et il peut participer activement aux t
 * intéressés par les buts de l'association; Individus ou organismes qui suivent et souscrivent à nos activités.
 > _Cela va inclure les personnes qui souscrivent à un groupe ou une liste de diffusion. En incluant les personnes "suiveuses" dans un réseau social ou une liste "newsletter" dans le registre des membres, l'association se dote ainsi du droit de les conserver dans ses données. Un processus d'auto-self-suppression doit être toutefois explicité. (Et pour automatiser cela, se faire aider http://call.kotte.net)_
 * membres donateurs agréés par le comité: soutiens financiers ou matériels;
-* membres parrains/marraines désignés par le comité: soutiens, sponsors;
+* membres parrains/marraines désignés par le comité: soutiens, sponsors, influenceurs;
 * membres d'honneur désignés par le comité;
 * membres associés ou partenaires désignés par le comité: organisations soutenant nos buts ou nos activités;
 Les demandes d'admission sont adressées au comité. Le comité admet les nouveaux membres et en informe l'assemblée générale lors de l’AG suivante.
