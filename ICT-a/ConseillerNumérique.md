@@ -1,6 +1,10 @@
 # Conseiller Numérique (CN)
 _On parle aussi de C2N = Coopérative des Conseillers Numériques, qui représente des collectifs de conseillers numériques._
 
+Version historique qui a donné naissance à la dernière version ci-dessous
+* https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md
+
+# DEPRECATED - OBSOLETE
 Le conseiller numérique externe (CN) fait office de :
 * responsable informatique (CTO/CIO) à temp partiel pour des petites structures, 
 * ou pour soutenir un CTO existant avec "des" second regards, 
