@@ -9,6 +9,7 @@ Voici les documents pour ICT-a.ch ou toutes organisations souhaitant créer un c
 * https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/00_HomeICT-a.md
 
 ## sous-dossier C2N: En construction
+* https://github.com/ICT-A/Published.Docs/blob/master/C2N/0_intro-C2N.md
 
 # Licence d'utilisation
 Licences libre Creative Commons, en mentionnant les auteurs CC-BY CloudReady.ch et ICT-a.ch, contact Pascal.KOTTE@CloudReady.ch
