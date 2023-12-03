@@ -60,10 +60,10 @@ La relation financière est conservée par l'apporteur d'affaire, et dans ce cas
     * Le CN est vivement conseiller de refuser ce type de mandat, sauf si le client est correctement informé de cette situation
 
 ## Le mode apporteur d'affaire
-La facturation est traitée par le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md directement vers le client "apporté". 
+La facturation est traitée par le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) directement vers le client "apporté". 
 * 10% sont systématiquement déduits sur la facturation (et donc doivent être ajoutés dans l'offre) pour l'apporteur d'affaire (qui reste le gestionnaire de la relation cliente).
 
-Chaque [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) sait qu'une intervention chez un client qui n'est pas apporté par lui-même mais via le réseau, doit inclure une commission d'apporteur d'affaire à celui qui a pu mettre en relation ce client.
+Chaque [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) sait qu'une intervention chez un client qui n'est pas apporté par lui-même mais via le réseau, doit inclure une commission d'apporteur d'affaire à celui qui a pu mettre en relation ce client.
 * Qu'il soit interne au collectif C2N, ou externe, l'apporteur a droit à:
   * 10% la première année à partir de la première proposition, ou de la première facture (selon les conventions)
   * 5% la seconde année.
