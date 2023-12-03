@@ -10,7 +10,7 @@ La participation **_libre et consciente_**, consiste à laisser le client décid
   * Option: En mode dynamique: Total/nombre participants => les frais réduisent si tu fais connaître l'atelier/activité.
   * Attention de mettre un plafond explicite.
 Un montant initial de base sur un mandat déterminé, puis un montant "libre" qui peut être basé sur une appréciation du client, ou bien sur une participation sur des indicateurs prédéfinis.
-* le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) doit expliciter les attentes et donner les moyens aux clients d'en mesurer les résultats.
+* le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) doit expliciter les attentes et donner les moyens aux clients d'en mesurer les résultats.
 * L'usage d'indicateur de réductions des coûts et le paiement par participation sur des montants économisés, n'est pas toujours une bonne pratique.
 
 Avantage: sur un atelier/activité, tu auras moins de défections, et moins de surprises, car un montant initial est versé à la réservation. Cela doit couvrir au moins les frais.
@@ -18,14 +18,14 @@ Avantage: sur un atelier/activité, tu auras moins de défections, et moins de s
 ### Facturation minimale au temps passé et complément libre (FPLH)
 * https://medium.com/cloudready-ch/participation-libre-et-consciente-e3a321867c7b
   * on y retrouve la mention de 40 CHF/h minimum...
-* Un montant horaire minimal est proposé (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) entre 20 et 60 CHF/h_), le reste en participation libre.
+* Un montant horaire minimal est proposé (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) entre 20 et 60 CHF/h_), le reste en participation libre.
 
 ### FTP: Facturation au temp passé
-Une convention est établie avec un taux horaire (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) et le mandat entre 90 et 160 CHF/h_)
+Une convention est établie avec un taux horaire (_Selon le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) et le mandat entre 90 et 160 CHF/h_)
 
 ### FSD: Facturation sur Devis
 Un mandat est préparé avec un programme/plan établi.
-* Une estimation des charges prévisibles est anticipé par le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md) qui valide l'adéquation aussi pour ses propres prestations.
+* Une estimation des charges prévisibles est anticipé par le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) qui valide l'adéquation aussi pour ses propres prestations.
 Un mandat est prédéfini, et il est convenu avant de commencer.
 * Exemple:
   * Un RFI standard, c'est 600 CHF.
@@ -51,7 +51,7 @@ Dans tous les cas, l'organisme qui assure la facturation reçoit entre 5 et 8% d
 
 # Commission d'apporteur d'affaire
 ## Le mode sous-traitant
-La relation financière est conservée par l'apporteur d'affaire, et dans ce cas, le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md reste un sous-traitant du mandataire, et celui-ci va lui faire une rémunération.
+La relation financière est conservée par l'apporteur d'affaire, et dans ce cas, le [CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md) reste un sous-traitant du mandataire, et celui-ci va lui faire une rémunération.
 * **Attention**: Si le mandataire qui assure la facturation au client, et le paiement au sous-traitant, est lui-même sous-traitant pour un "tiers client" alors, il est soumis à la loi sur le placement privé (délégation du travail), la LSE: 
   * soit il dispose d'une autorisation de délégation (interim, LSE, [liste des entreprises autorisées](http://www.avg-seco.admin.ch/WebVerzeichnis/ServletWebVerzeichnis)) et il doit fournir un contrat de travail (temporaire) et feuille de salaire au CN
   * soit le mandataire n'est pas [autorisé LSE](https://www.kmu.admin.ch/dam/kmu/fr/dokumente/savoir-pratique/personnel/Merkblatt_Personalverleih_2016_d_22-3-2017.pdf.download.pdf/Merkblatt_Personalverleih_2016_d_22-3-2017_FR.pdf), la prestation est un mandat qui doit être "décrit" dans un devis, forfaitaire et pourra être facturé par le CN via son propre porteur salarial
