@@ -7,10 +7,10 @@ Sous le nom "ICT-A.ch", abréviée "ICT-A" ou "ICTA", est constituée une Associ
 
 L’Association a pour buts : 
 
-  1. Constituer un réseau d’experts dans les métiers de l’informatique & communications. 
-  2. Mutualiser des moyens pour faciliter la veille technologique et relationnelle. 
-  3. Promouvoir des meilleures pratiques informatiques auprès des entreprises Romandes dans un esprit de développement durable. 
-  4. Aider les entreprises à définir leurs besoins informatiques (ICT), émettre des appels d’offres (RFP) et traiter les réponses. 
+   1. Constituer un réseau d’experts dans les métiers de l’informatique & communications. 
+   2. Mutualiser des moyens pour faciliter la veille technologique et relationnelle. 
+   3. Promouvoir des meilleures pratiques informatiques auprès des entreprises Romandes dans un esprit de développement durable. 
+   4. Aider les entreprises à définir leurs besoins informatiques (ICT), émettre des appels d’offres (RFP) et traiter les réponses. 
 
 
 Ces objectifs défendent des intérêts à la fois économiques et sociaux, en priorité au bénéfice de ses membres, dans le respect d’un cadre éthique renforcé par le code Kalix et la charte interne. 
