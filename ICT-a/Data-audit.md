@@ -17,7 +17,7 @@ Une séance d'analyse avec les experts internes au client doivent assurer une va
 * Un ou plusieur diagramme des flux de données, data-flux.
 
 ## Cela coûte combien?
-ICT-a propose un forfait à 1200 CHF car cette opération est nécessaire pour bien prendre connaissance du contexte et des besoins du client, même si généralement, elle représente 3 jours de travail, et non une seule journée. Mais parfois, on arrive à être efficient.
+ICT-a propose un forfait à 1200 CHF (pour les PME de moins de 10 personnes) car cette opération est nécessaire pour bien prendre connaissance du contexte et des besoins du client, même si généralement, elle représente 3 jours de travail, et non une seule journée. Mais parfois, on arrive à être efficient.
 * Pour certaines associations ou projet caritatif, ICT-a peut offrir cette prestation.
 
 Passer une commande ? http://callme.kotte.net 
