@@ -54,7 +54,7 @@ Une partie des CN sont aussi des formateurs certifiés, mais tous étudient la t
   * Adaptés aux métiers, aux domaines techniques et aux spécialisations
     * Les métiers des clients
     * Les métiers numériques
-    * Les innovations tecnologiques
+    * Les innovations technologiques
     * La sécurité et la culture numérique
     * La société numérique, ses transformations
     * Le contexte sociétal et juridique
