@@ -3,7 +3,7 @@ Coopérative des Conseillers Numériques (CN)
 * [Charte.C2N.ch](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md)
 
 ## Pourquoi?
-Il existe de nombreuses formes de structures existantes, qui assurent partiellement, complètement, avec ou sans conflits d'intérêts, des [rôles de CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md#r%C3%B4les).
+Il existe de nombreuses formes de structures existantes, qui assurent partiellement, complètement, avec ou sans conflits d'intérêts, des [rôles de CN](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNumerique.md#r%C3%B4les).
 L'objectif n'est pas de "figer" et créer un nouveau métier, mais de partager une vision collective et construire les évolutions et clarifications sur les attentes, les exigences, des clients, des partenaires et des collègues, et pour finir de la société civile.
 
 ## Comment?
