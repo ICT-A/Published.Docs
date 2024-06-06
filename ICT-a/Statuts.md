@@ -1,3 +1,5 @@
+# Version finale officielle, ici http://statuts.ict-a.ch
+
 1. Nom et siège 
 
 Sous le nom "ICT-A.ch", abréviée "ICT-A" ou "ICTA", est constituée une Association, au sens des articles 60 et suivants du Code civil suisse, dont le siège se trouve à Lausanne. 
